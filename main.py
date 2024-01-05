@@ -20,7 +20,6 @@ def scrape_ndtv_headlines(url):
     response = requests.get(url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
-    # Find all the 'div' tags with class 'trndTxt' which contain the headlines
     trndTxt_divs = soup.find_all('div', class_='trndTxt')
     headlines_data = []
     for div in trndTxt_divs:
