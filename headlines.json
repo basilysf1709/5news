@@ -1,0 +1,407 @@
+{
+    "Indiatimes": {
+        "political-spectrum": "centre-right",
+        "headlines": [
+            {
+                "headline": "Meet Arun Yogiraj, A Karnataka Sculptor Whose Ram Lalla Idol Has Been Selected For Installation At Ayodhya Ram Temple",
+                "url": "https://www.indiatimes.com/news/india/arun-yogiraj-karnataka-sculptors-ram-lalla-idol-selected-for-installation-at-ayodhya-ram-temple-624528.html"
+            },
+            {
+                "headline": "This Bakery In Kerala Baked India's First Christmas Cake Back In 1883",
+                "url": "https://www.indiatimes.com/news/india/this-bakery-in-kerala-baked-indias-first-christmas-cake-back-in-1883-623978.html"
+            },
+            {
+                "headline": "South Delhi Resident Ordered 9940 Condoms: Blinkit Shares Best Of 2023 Records",
+                "url": "https://www.indiatimes.com/news/india/south-delhi-resident-ordered-9940-condoms-624548.html"
+            },
+            {
+                "headline": "Human Trafficking: 20 Passengers Of Failed 'Donkey' Flight To Nicaragua Quizzed By Gujarat Police",
+                "url": "https://www.indiatimes.com/news/india/human-trafficking-passengers-of-failed-flight-to-nicaragua-quizzed-by-gujarat-police-624429.html"
+            },
+            {
+                "headline": "Delhi Schools Winter Vacation: Nursery To Class 5 To Remain Closed Till Jan 12",
+                "url": "https://www.indiatimes.com/news/india/delhi-schools-winter-vacation-nursery-to-class-5-to-remain-closed-till-jan-12-624843.html"
+            },
+            {
+                "headline": "'Will Stay Wherever He Is': Man Tells Why He Is Buying Dawood's Properties",
+                "url": "https://www.indiatimes.com/news/india/man-tells-why-he-is-buying-dawoods-properties-624844.html"
+            },
+            {
+                "headline": "Ramjanmabhoomi-Babri Masjid Case Litigant Iqbal Ansari To Attend Ayodhya Ram Temple Inauguration",
+                "url": "https://www.indiatimes.com/news/india/ramjanmabhoomi-babri-masjid-case-litigant-iqbal-ansari-invited-for-ram-temple-inauguration-624826.html"
+            },
+            {
+                "headline": "Meet Karthik Joshi, An Ultra-Marathoner Running From Indore To Ayodhya In 14 Days",
+                "url": "https://www.indiatimes.com/news/india/meet-karthik-joshi-an-ultra-marathoner-running-1008-km-from-indore-to-ayodhya-in-14-days-624823.html"
+            }
+        ]
+    },
+    "NDTV": {
+        "political-spectrum": "left",
+        "headlines": [
+            {
+                "headline": "\"Appalling Language\": Maldives Ex President Slams Minister's Post On PM",
+                "url": "https://www.ndtv.com/india-news/what-appalling-language-maldives-ex-president-mohamed-nasheed-slams-minister-mariyam-shiuna-over-post-on-pm-narendra-modi-4816074#News_Trending"
+            },
+            {
+                "headline": "Maldives Minister's Post On PM Modi's Lakshadweep Visit Triggers Row",
+                "url": "https://www.ndtv.com/india-news/maldives-ministers-tweet-on-pm-narendra-modis-lakshadweep-visit-triggers-row-on-social-media-4815236#News_Trending"
+            },
+            {
+                "headline": "\"The Way You...\": Narayana Murthy After Client Made Him Sleep In Storeroom",
+                "url": "https://www.ndtv.com/india-news/us-client-made-narayana-murthy-sleep-on-box-inside-storeroom-book-4815832#News_Trending"
+            },
+            {
+                "headline": "Indians Cancel Maldives Trips Amid Row Over Island Minister's Post",
+                "url": "https://www.ndtv.com/india-news/boycottmaldives-trends-in-india-amid-row-over-ministers-post-4815716#News_Trending"
+            },
+            {
+                "headline": "\"Why Should We Tolerate Hate\": Celebs Join Hands For Lakshadweep",
+                "url": "https://www.ndtv.com/india-news/hateful-comments-on-indians-bollywood-actors-join-boycottmaldives-4816413#News_Trending"
+            },
+            {
+                "headline": "\"No Hope, Better To Die In Jail\": Jet Airways Founder Breaks Down In Court",
+                "url": "https://www.ndtv.com/india-news/no-hope-better-die-in-jail-jet-airways-founder-naresh-goyal-to-court-with-folded-hands-4813043#News_Trending"
+            }
+        ]
+    },
+    "News18": {
+        "political-spectrum": "right",
+        "headlines": [
+            {
+                "headline": "Maldives Minister's Social Media Post Over PM Modi's Lakshadweep Visit Stirs Row; Indians Cancel Trips En Masse",
+                "url": "https://www.news18.com/world/maldives-ministers-social-media-post-stirs-controversy-over-pm-modis-lakshadweep-visit-8730914.html"
+            },
+            {
+                "headline": "WATCH | IAF Aircraft Creates Milestone With Successful Night Landing At Kargil Airstrip",
+                "url": "https://www.news18.com/india/watch-iaf-aircraft-creates-milestone-with-successful-night-landing-at-kargil-airstrip-8730947.html"
+            },
+            {
+                "headline": "Maldives Ex-President Urges Muizzu Govt to Disown 'Appalling Language' on PM Modi",
+                "url": "https://www.news18.com/world/maldives-ex-president-urges-muizzu-govt-to-disown-appalling-language-on-pm-modi-8731043.html"
+            },
+            {
+                "headline": "'Pahadi Who Needs Tea in Sleep', '12th Fail' Officer's Wife & Encounter with Guns, 'Pani Wala Aloo' | Profile",
+                "url": "https://www.news18.com/education-career/12th-fail-shraddha-joshi-ips-officer-manoj-sharma-wife-irs-profile-8730761.html"
+            }
+        ]
+    },
+    "IndianExpress": {
+        "political-spectrum": "centre-left",
+        "headlines": [
+            {
+                "headline": "Why egg prices are soaring across India",
+                "url": "https://indianexpress.com/article/cities/pune/why-egg-prices-high-across-india-9098700/"
+            },
+            {
+                "headline": "Understanding Kashmir’s tallest leader Sheikh Abdullah, and the region and its politics",
+                "url": "https://indianexpress.com/article/political-pulse/understanding-kashmirs-tallest-leader-sheikh-abdullah-and-the-region-and-its-politics-9098714/"
+            },
+            {
+                "headline": "Bangladesh elections today: Why India would want Sheikh Hasina to win",
+                "url": "https://indianexpress.com/article/explained/bangladesh-elections-india-9097172/"
+            },
+            {
+                "headline": "'Wild Karnataka' docu: HC to frame charges against filmmakers, BBC and Netflix",
+                "url": "https://indianexpress.com/article/cities/bangalore/wild-karnataka-documentary-high-court-charges-filmmakers-9098663/"
+            },
+            {
+                "headline": "When a Lt General’s book on the 1962 India-China war raised demands for his arrest",
+                "url": "https://indianexpress.com/article/cities/chandigarh/when-a-lt-generals-book-on-the-1962-india-china-war-raised-demands-for-his-arrest-9098496/"
+            },
+            {
+                "headline": "In a first, IAF Super Hercules transport jet makes night landing at Kargil",
+                "url": "https://indianexpress.com/article/india/watch-indian-air-force-c130j-night-landing-kargil-9098560/"
+            },
+            {
+                "headline": "Once upon a time, a Ram idol that turned the course of India's history",
+                "url": "https://indianexpress.com/article/opinion/columns/once-upon-a-time-a-ram-idol-that-turned-the-course-of-indias-history-9097739/"
+            },
+            {
+                "headline": "Pramod Bhagat versus Daniel Bethell, a para badminton rivalry to watch out for",
+                "url": "https://indianexpress.com/article/sports/badminton/pramod-bhagat-versus-daniel-bethell-a-para-badminton-rivalry-to-watch-out-for-9098475/"
+            },
+            {
+                "headline": "Why Nintendo’s next console won’t be too different from the Switch",
+                "url": "https://indianexpress.com/article/technology/why-nintendos-next-console-wont-be-too-different-from-the-switch-an-expert-explains-9098533/"
+            },
+            {
+                "headline": "Taunted for age, asked to retire, Dipa Karmakar wins National Championships",
+                "url": "https://indianexpress.com/article/sports/sport-others/taunted-for-age-asked-to-retire-dipa-karmakar-wins-national-championships-all-around-title-in-gymnastics-9098216/"
+            },
+            {
+                "headline": "Elevate Your Interior Design with TRUTONEx White Cement-Based Distemper Paint",
+                "url": "https://indianexpress.com/article/business/sponsored-business/elevate-your-interior-design-with-trutonex-white-cement-based-distemper-paint-9096087/"
+            },
+            {
+                "headline": "Discover Less Explored Travel Destinations This New Year",
+                "url": "https://indianexpress.com/article/lifestyle/sponsored-lifestyle/discover-less-explored-travel-destinations-this-new-year-9083455/"
+            },
+            {
+                "headline": "Why Choose Tata AIG Comprehensive Car Insurance For Your Vehicle?",
+                "url": "https://indianexpress.com/article/auto-travel/sponsored-auto-travel/why-choose-tata-aig-comprehensive-car-insurance-for-your-vehicle-9084422/"
+            },
+            {
+                "headline": "Screening of Cancers in Women in India",
+                "url": "https://indianexpress.com/article/lifestyle/sponsored-lifestyle/screening-of-cancers-in-women-in-india-9086018/"
+            },
+            {
+                "headline": "Chitkara University Global Online MBA: Your Path to Global Leadership",
+                "url": "https://indianexpress.com/article/education/sponsored-education/chitkara-university-global-online-mba-your-path-to-global-leadership-9086222/"
+            }
+        ]
+    },
+    "IndiaToday": {
+        "political-spectrum": "centre-right",
+        "headlines": [
+            {
+                "headline": "India raises with Maldives minister’s derogatory remarks about PM Modi",
+                "url": "https://www.indiatoday.in/india/story/india-raises-with-maldives-minister-mariyam-shiunas-derogatory-remarks-about-pm-modi-2485391-2024-01-07?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
+                "headline": "Maldives ex-president Nasheed condemns official’s ‘appalling’ language for PM Modi",
+                "url": "https://www.indiatoday.in/world/story/maldives-president-mohamed-nasheed-on-minister-mariyam-shiuna-derogatory-remarks-on-pm-modi-lakshadweep-visit-2485350-2024-01-07?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
+                "headline": "Indian student found dead in Italy, family seeks government help to bring back body",
+                "url": "https://www.indiatoday.in/india/story/jharkhands-student-dies-in-italy-family-seeks-government-help-to-bring-body-2485266-2024-01-07?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
+                "headline": "'Unprovoked hate': Indian celebs back PM Modi's Lakshadweep pitch amid Maldives row",
+                "url": "https://www.indiatoday.in/india/story/lakshadweep-maldives-row-akshay-kumar-shraddha-kapoor-john-abraham-prime-minister-narendra-modi-2485386-2024-01-07?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
+                "headline": "'India a trusted friend, gave us shelter': Sheikh Hasina as Bangladesh votes today",
+                "url": "https://www.indiatoday.in/world/story/bangladesh-election-sheikh-hasina-prime-minister-india-narendra-modi-relationship-2485298-2024-01-07?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
+                "headline": "Delhi schools shut until Jan 12 for students up to Class 5 due to cold weather",
+                "url": "https://www.indiatoday.in/india/story/delhi-schools-to-remain-closed-for-next-5-days-for-students-up-to-class-5-due-to-cold-weather-conditions-2485322-2024-01-07?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
+                "headline": "Bangladesh votes in election boycotted by opposition, Sheikh Hasina set for 5th term",
+                "url": "https://www.indiatoday.in/world/story/bangladesh-hold-general-election-on-sunday-sheikh-hasina-fourth-term-bnp-boycott-call-2485242-2024-01-06?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
+                "headline": "5 best Irrfan films to watch on his birth anniversary",
+                "url": "https://www.indiatoday.in/visualstories/entertainment/5-best-irrfan-films-to-watch-on-his-birth-anniversary-86923-07-01-2024"
+            },
+            {
+                "headline": "Rohit Sharma elated with great start to 2024",
+                "url": "https://www.indiatoday.in/visualstories/sports/rohit-sharma-elated-with-great-start-to-2024-86927-07-01-2024"
+            },
+            {
+                "headline": "PM Modi in Lakshadweep. All pics",
+                "url": "https://www.indiatoday.in/visualstories/lifestyle/pm-modi-in-lakshadweep-all-pics-86472-04-01-2024"
+            },
+            {
+                "headline": "Xiaomi to Apple, phone brands that are working on cars",
+                "url": "https://www.indiatoday.in/visualstories/technology/xiaomi-to-apple-phone-brands-that-are-working-on-cars-85233-29-12-2023"
+            },
+            {
+                "headline": "3 low safety rated cars with high sales in 2023",
+                "url": "https://www.indiatoday.in/visualstories/auto/3-low-safety-rated-cars-with-high-sales-in-2023-86278-04-01-2024"
+            },
+            {
+                "headline": "5 health benefits of guava in winter",
+                "url": "https://www.indiatoday.in/visualstories/wellness/5-health-benefits-of-guava-in-winter-86660-05-01-2024"
+            },
+            {
+                "headline": "Today's Horoscope  7 January 2024",
+                "url": "https://www.indiatoday.in/visualstories/horoscope/daily-horoscope-today-s-07-january-2024-daily-horoscope-in-english-all-zodiac-signs-astrology-prediction-airf-2-86418-07-01-2024"
+            },
+            {
+                "headline": "5 In-Demand Jobs for Women in 2024",
+                "url": "https://www.indiatoday.in/visualstories/education/5-in-demand-jobs-for-women-in-2024-86626-05-01-2024"
+            },
+            {
+                "headline": "8 must-watch OTT films, series this weekend",
+                "url": "https://www.indiatoday.in/visualstories/entertainment/8-must-watch-ott-films-series-this-weekend-86649-05-01-2024"
+            },
+            {
+                "headline": "OTD: India conquer Australia for the first time in Tests",
+                "url": "https://www.indiatoday.in/visualstories/sports/otd-india-conquer-australia-for-the-first-time-in-tests-86893-07-01-2024"
+            },
+            {
+                "headline": "'BJP promoting Hindutva fascism, propaganda over PM face': Sharad Pawar",
+                "url": "https://www.indiatoday.in/india/video/bjp-hindutva-fascism-propaganda-pm-modi-cow-urine-sharad-pawar-2484640-2024-01-05"
+            },
+            {
+                "headline": "Ship with 15 Indians on board hijacked off Somalia cost, Navy monitoring situation",
+                "url": "https://www.indiatoday.in/world/video/ship-indians-board-hijacked-somalia-cost-navy-monitor-ins-chennai-liberian-2484624-2024-01-05"
+            },
+            {
+                "headline": "Vice President Jagdeep Dhankhar invites Trinamool MP for dinner after mimicry row",
+                "url": "https://www.indiatoday.in/india/video/vice-president-jagdeep-dhankhar-invites-trinamool-mp-for-dinner-after-mimicry-row-2484554-2024-01-05"
+            },
+            {
+                "headline": "Chinese daily hails India as 'major power' under PM Modi's leadership",
+                "url": "https://www.indiatoday.in/india/video/chinese-opinion-piece-india-major-power-praise-pm-narendra-bharat-modi-leadership-2484546-2024-01-05"
+            },
+            {
+                "headline": "Hindu temple in California defaced with anti-India, pro-Khalistani graffiti",
+                "url": "https://www.indiatoday.in/world/video/hindu-temple-us-california-defaced-anti-india-khalistani-graffiti-2484551-2024-01-05"
+            }
+        ]
+    },
+    "FinancialExpress": {
+        "political-spectrum": "centre-right",
+        "headlines": [
+            {
+                "headline": "Vibrant Gujarat Summit: Tight security at venues with 3-D mapping by drones, CCTV cameras placed | Details inside",
+                "url": "https://www.financialexpress.com/india-news/vibrant-gujarat-summit-2024-tight-security-at-venues-3-d-mapping-drones-cctv-cameras-traffic-diversions/3357818/"
+            },
+            {
+                "headline": "Delhi schools upto Class 5 to remain closed till January 12 amid cold wave",
+                "url": "https://www.financialexpress.com/india-news/delhi-schools-upto-class-5-to-remain-closed-till-january-12-amid-cold-wave-imd/3357770/"
+            },
+            {
+                "headline": "‘No hope, better to die in jail’: Jet Airways founder Naresh Goyal breaks down in court",
+                "url": "https://www.financialexpress.com/india-news/no-hope-better-to-die-in-jail-jet-airways-founder-naresh-goyal-breaks-down-in-court/3357724/"
+            },
+            {
+                "headline": "Breaking News LIVE: Netanyahu declares war will not end until Israel achieves ‘All’ of its goals",
+                "url": "https://www.financialexpress.com/india-news/breaking-news-live-and-top-trending-headlines-on-january-7-bkg/3357501/"
+            },
+            {
+                "headline": "Delhi: Man claims woman he wanted to marry set him on fire, dies",
+                "url": "https://www.financialexpress.com/india-news/delhi-man-claims-woman-he-wanted-to-marry-set-him-on-fire-dies/3357713/"
+            },
+            {
+                "headline": "Weather update: IMD issues cold day warning, dense fog alert for northern states; No respite from biting cold for next two days – Check forecast here",
+                "url": "https://www.financialexpress.com/india-news/weather-update-imd-issues-cold-day-warning-dense-fog-alert-for-northern-states-no-respite-from-biting-cold-for-next-two-days-check-forecast-here/3357663/"
+            },
+            {
+                "headline": "Fire breaks out in forest near Modi Mill in Delhi’s Okhla, causes traffic snarls",
+                "url": "https://www.financialexpress.com/india-news/fire-breaks-out-in-forest-near-modi-mill-in-delhis-okhla-causes-traffic-snarls/3357606/"
+            },
+            {
+                "headline": "Gyanvapi case: Varanasi court to decide on Jan 24 whether to make ASI report public",
+                "url": "https://www.financialexpress.com/india-news/gyanvapi-case-varanasi-court-to-decide-on-jan-24-whether-to-make-asi-report-public/3357546/"
+            },
+            {
+                "headline": "Women-led development, by India’s women-led enterprises – a key piece of $5 trillion goal",
+                "url": "https://www.financialexpress.com/india-news/women-led-development-by-indias-women-led-enterprises-a-key-piece-of-5-trillion-goal/3357526/"
+            },
+            {
+                "headline": "Pakistan’s judiciary has done much better than India’s in many cases: Dushyant Dave",
+                "url": "https://www.financialexpress.com/india-news/pakistans-judiciary-has-done-much-better-than-indias-in-many-cases-dushyant-dave/3357488/"
+            },
+            {
+                "headline": "One nation, one poll: Law panel examining various formulae on holding three-tier elections",
+                "url": "https://www.financialexpress.com/india-news/one-nation-one-poll-law-panel-examining-various-formulae-on-holding-three-tier-elections/3357463/"
+            },
+            {
+                "headline": "‘Open heart for Congress, but will go solo in West Bengal if needed’: TMC",
+                "url": "https://www.financialexpress.com/india-news/open-heart-for-congress-but-will-go-solo-in-west-bengal-if-needed-tmc/3357464/"
+            },
+            {
+                "headline": "Taking out Nyay Yatra as govt didn’t give us chance to raise issues in Parliament, says Kharge",
+                "url": "https://www.financialexpress.com/india-news/taking-out-nyay-yatra-as-govt-didnt-give-us-chance-to-raise-issues-in-parliament-says-kharge/3357398/"
+            },
+            {
+                "headline": "CM Kejriwal accepts Swati Maliwal’s resignation as DCW chief",
+                "url": "https://www.financialexpress.com/india-news/cm-kejriwal-accepts-swati-maliwals-resignation-as-dcw-chief/3357384/"
+            },
+            {
+                "headline": "BJP leadership wants senior leaders, including RS MPs, to contest Lok Sabha elections, free to choose seats",
+                "url": "https://www.financialexpress.com/india-news/bjp-leadership-wants-senior-leaders-including-rs-mps-to-contest-lok-sabha-elections-free-to-choose-seats/3357243/"
+            },
+            {
+                "headline": "Parliament security breach: 5 of six accused consent to polygraph test, Neelam Azad refuses",
+                "url": "https://www.financialexpress.com/india-news/parliament-security-breach-5-of-six-accused-consent-to-polygraph-test-neelam-azad-refuses/3357220/"
+            },
+            {
+                "headline": "Breaking News on January 6: India ISRO’s Aditya-L1 solar mission reaches destination",
+                "url": "https://www.financialexpress.com/india-news/breaking-news-live-and-top-trending-headlines-on-january-6-bkg/3357177/"
+            },
+            {
+                "headline": "Ram Mandir: PM Modi hails Cabinet’s approval of naming Ayodhya airport after Maharishi Valmiki",
+                "url": "https://www.financialexpress.com/india-news/ram-mandir-pm-modi-hails-cabinets-approval-of-naming-ayodhya-airport-after-maharishi-valmiki-gets-international-status/3357173/"
+            },
+            {
+                "headline": "Rajasthan portfolio allocation: CM Sharma keeps Home, 8 other departments, Kirodi Lal Meena is new agriculture minister",
+                "url": "https://www.financialexpress.com/india-news/rajasthan-portfolio-allocation-cm-sharma-keeps-home-8-other-departments-kirodi-lal-meena-is-new-agriculture-minister/3357160/"
+            }
+        ]
+    },
+    "TimesNow": {
+        "political-spectrum": "right",
+        "headlines": [
+            {
+                "headline": "87611936",
+                "url": "https://www.timesnownews.com/web-stories/india/rahul-gandhi-ready-for-dangal-in-2024/photostory/106313823.cms"
+            },
+            {
+                "headline": "87611936",
+                "url": "https://www.timesnownews.com/web-stories/india/rahul-gandhi-ready-for-dangal-in-2024/photostory/106313823.cms"
+            },
+            {
+                "headline": "87611936",
+                "url": "https://www.timesnownews.com/web-stories/india/controversial-bengal-bjp-leader-anupam-hazra-dropped-from-key-party-post-during-amit-shahs-visit-to-kolkata/photostory/106305631.cms"
+            },
+            {
+                "headline": "87611936",
+                "url": "https://www.timesnownews.com/web-stories/india/controversial-bengal-bjp-leader-anupam-hazra-dropped-from-key-party-post-during-amit-shahs-visit-to-kolkata/photostory/106305631.cms"
+            },
+            {
+                "headline": "87611936",
+                "url": "https://www.timesnownews.com/web-stories/india/tactic-to-destroy-democracy-opposition-attacks-bjp-after-suspension-of-over-100-mps/photostory/106125276.cms"
+            }
+        ]
+    },
+    "Business-Standard": {
+        "political-spectrum": "centre",
+        "headlines": [
+            {
+                "headline": "Tata Electronics to sign deal worth over Rs 12,000 cr with TN govt: Report",
+                "url": "https://www.business-standard.com/companies/news/tata-electronics-to-sign-deal-worth-over-rs-12-000-cr-with-tn-govt-report-124010700333_1.html"
+            },
+            {
+                "headline": "Dr Reddy's recalls 8,000 bottles of generic drug in US over packaging error",
+                "url": "https://www.business-standard.com/companies/news/dr-reddy-s-recalls-8-000-bottles-of-generic-drug-in-us-over-packaging-error-124010700152_1.html"
+            },
+            {
+                "headline": "Qualcomm expands presence in Chennai with proposed investment of Rs 177 cr",
+                "url": "https://www.business-standard.com/companies/news/qualcomm-expands-presence-in-chennai-with-proposed-investment-of-rs-177-cr-124010700283_1.html"
+            },
+            {
+                "headline": "Dominant Covid strain JN.1 reported in most parts of India: Insacog data",
+                "url": "https://www.business-standard.com/india-news/dominant-covid-strain-jn-1-reported-in-most-parts-of-india-insacog-data-124010700202_1.html"
+            },
+            {
+                "headline": "GDP numbers for FY24 show discrepancies of Rs 2.59 trillion: NSO data",
+                "url": "https://www.business-standard.com/economy/news/gdp-numbers-for-fy24-show-discrepancies-of-rs-2-59-trillion-nso-data-124010700182_1.html"
+            }
+        ]
+    },
+    "ThePrint": {
+        "political-spectrum": "centre",
+        "headlines": [
+            {
+                "headline": "Iran’s terror bombings show Middle East is on edge. We don’t have infinite time for dialogue",
+                "url": "https://theprint.in/opinion/security-code/irans-terror-bombings-show-middle-east-is-on-edge-we-dont-have-infinite-time-for-dialogue/1913636/"
+            },
+            {
+                "headline": "Among 1st climate refugees in Americas, how an indigenous community in Panama secured its own future",
+                "url": "https://theprint.in/environment/among-1st-climate-refugees-in-americas-how-an-indigenous-community-in-panama-secured-its-own-future/1913657/"
+            },
+            {
+                "headline": "IAF pulls off night landing at Kargil Advanced Landing Ground with terrain masking. What this means",
+                "url": "https://theprint.in/defence/iaf-pulls-off-night-landing-at-kargil-advanced-landing-ground-with-terrain-masking-what-this-means/1913708/"
+            },
+            {
+                "headline": "‘Hard to see countrymen fight’ — Assam Rifles, Army soldiers in Manipur on family & ethnic strife",
+                "url": "https://theprint.in/india/hard-to-see-countrymen-fight-assam-rifles-army-soldiers-in-manipur-on-family-ethnic-strife/1912162/"
+            },
+            {
+                "headline": "Wild overgrowth, glass shards, busted scoreboard — plight of Patna stadium dampens Ranji mood",
+                "url": "https://theprint.in/india/wild-overgrowth-glass-shards-busted-scoreboard-plight-of-patna-stadium-dampens-ranji-mood/1913329/"
+            },
+            {
+                "headline": "Why 5 political upsets in India, from 1967 to 2014, hold lessons for struggling INDIA alliance",
+                "url": "https://theprint.in/national-interest/why-5-political-upsets-in-india-from-1967-to-2014-hold-lessons-for-struggling-india-alliance/1912535/"
+            }
+        ]
+    }
+}
