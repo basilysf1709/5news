@@ -22,5 +22,5 @@ app.use('/api/v1', apiRoutes);
 
 // Start the Express server
 app.listen(port, () => {
-  console.log(`Server is running at https://localhost:${port}`);
+  console.log(`Server is running at http://localhost:${port}`);
 });
