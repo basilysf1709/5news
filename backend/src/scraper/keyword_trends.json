@@ -1,0 +1,55 @@
+{
+    "left": {
+        "india": 0,
+        "maldives": 1,
+        "modi": 3,
+        "delhi": 0,
+        "pm": 2,
+        "lakshadweep": 0,
+        "bilkis": 0
+    },
+    "centre-left": {
+        "india": 3,
+        "maldives": 1,
+        "modi": 1,
+        "delhi": 0,
+        "pm": 1,
+        "lakshadweep": 1,
+        "bilkis": 1
+    },
+    "centre": {
+        "india": 2,
+        "maldives": 0,
+        "modi": 0,
+        "delhi": 0,
+        "pm": 0,
+        "lakshadweep": 0,
+        "bilkis": 2
+    },
+    "centre-right": {
+        "india": 8,
+        "maldives": 3,
+        "modi": 4,
+        "delhi": 7,
+        "pm": 5,
+        "lakshadweep": 4,
+        "bilkis": 5
+    },
+    "right": {
+        "india": 4,
+        "maldives": 3,
+        "modi": 1,
+        "delhi": 0,
+        "pm": 1,
+        "lakshadweep": 3,
+        "bilkis": 0
+    },
+    "left_keywords": [],
+    "right_keywords": [
+        "india",
+        "maldives",
+        "delhi",
+        "lakshadweep",
+        "bilkis"
+    ]
+}

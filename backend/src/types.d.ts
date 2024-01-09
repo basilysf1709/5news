@@ -16,3 +16,17 @@ export interface NewsSource {
 export interface HeadlinesData {
   [source: string]: NewsSource; // Index signature for dynamic keys like "Indiatimes", "NDTV", etc.
 }
+
+
+type PoliticalSpectrum = 'left' | 'centre-left' | 'centre' | 'centre-right' | 'right';
+
+type KeywordCounts = {
+  [keyword: string]: number;
+};
+
+type KeywordTrends = {
+  [key in PoliticalSpectrum]: KeywordCounts;
+} & {
+  left_keywords: string[];
+  right_keywords: string[];
+};

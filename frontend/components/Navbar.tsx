@@ -1,16 +1,18 @@
 "use client"
 import Link from 'next/link';
 import { useState } from 'react';
+import Image from 'next/image'; // Importing the Image component
 
 export function Navbar() {
   const [navbar, setNavbar] = useState(false);
   return (
-    <nav className="w-full bg-blue-500 shadow">
+    <nav className="w-full bg-primary shadow">
         <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
           <div>
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
-              <a href="/">
-                <h2 className="text-2xl text-white font-bold hover:text-custom-blue-500">Blindspot</h2>
+              <a className="flex flex-row space-x-2" href="/">
+                <Image src="/logo.svg" alt="Logo" width={30} height={30} />
+                <h2 className="text-2xl text-white font-bold hover:text-tertiary">Blindspot</h2>
               </a>
               <div className="md:hidden">
                 <button
@@ -57,12 +59,12 @@ export function Navbar() {
               }`}
             >
               <ul className="items-center justify-center space-y-8 md:flex md:space-x-10 md:space-y-0">
-                <li className="text-white hover:text-blue-500">
+                <li className="text-white hover:text-tertiary">
                   <Link href="/">
                     Home
                   </Link>
                 </li>
-                <li className="text-white hover:text-blue-500">
+                <li className="text-white hover:text-tertiary">
                   <Link href="/contact">
                     Contact us
                   </Link>

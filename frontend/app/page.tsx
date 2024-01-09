@@ -4,54 +4,40 @@ import { Footer } from "@/components/Footer";
 import { Navbar } from "@/components/Navbar";
 import { Tabbar } from "@/components/Tabbar";
 import { Keywords } from "@/components/Keywords";
-import Typewriter from "typewriter-effect";
+import { MovingWords } from "@/components/MovingWords";
 
 export default function Home() {
   return (
     <>
       <Navbar />
       <Tabbar />
-      <div className="mx-20 mb-12 text-3xl font-semibold leading-relaxed text-gray-700 dark:text-white md:text-4xl">
-        <Typewriter
-          onInit={(typewriter) => {
-            typewriter
-              .typeString("Keywords popular on the left today:")
-              .pauseFor(2500)
-              .callFunction(() => {
-                typewriter.stop();
-              })
-              .start();
-          }}
-          options={{
-            autoStart: true,
-            loop: false,
-          }}
-        />
-      </div>
+      <MovingWords text="Keywords popular on the left today:" />
       <Keywords />
-      <div className="mx-20 mt-16 text-3xl font-semibold leading-relaxed text-gray-700 dark:text-white md:text-4xl">
-        <Typewriter
-          onInit={(typewriter) => {
-            typewriter
-              .typeString("Reported Headlines on the left today:")
-              .pauseFor(2500)
-              .callFunction(() => {
-                typewriter.stop();
-              })
-              .start();
-          }}
-          options={{
-            autoStart: true,
-            loop: false,
-          }}
-        />
-      </div>
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
+      <MovingWords text="Reported headlines on the left today:" />
+      <Card
+        newsChannel="Times Now"
+        headlines="With supporting text below as a natural lead-in to additional
+            content."
+        url="https://linkedin.com"
+      />
+      <Card
+        newsChannel="Times Now"
+        headlines="With supporting text below as a natural lead-in to additional
+            content."
+        url="https://linkedin.com"
+      />
+      <Card
+        newsChannel="Times Now"
+        headlines="With supporting text below as a natural lead-in to additional
+            content."
+        url="https://linkedin.com"
+      />
+      <Card
+        newsChannel="Times Now"
+        headlines="With supporting text below as a natural lead-in to additional
+            content."
+        url="https://linkedin.com"
+      />
       <Footer />
     </>
   );

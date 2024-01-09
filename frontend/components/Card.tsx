@@ -1,18 +1,24 @@
-export const Card = () => {
+
+type CardProps = {
+  newsChannel: string;
+  headlines: string;
+  url: string;
+};
+
+export const Card: React.FC<CardProps> = ({ newsChannel, headlines, url }) => {
   return (
     <>
       <div className="mx-20 my-16 flex flex-col bg-white border shadow-sm rounded-xl">
         <div className="p-4 md:p-5">
           <h3 className="text-lg font-bold text-gray-800">
-            Reported by Times News
+            Reported by {newsChannel}
           </h3>
           <p className="mt-2 text-gray-500">
-            With supporting text below as a natural lead-in to additional
-            content.
+            {headlines}
           </p>
           <a
             className="mt-3 inline-flex items-center gap-x-1 text-sm font-semibold rounded-lg border border-transparent text-blue-600 hover:text-blue-800 disabled:opacity-50 disabled:pointer-events-none"
-            href="#"
+            href={url}
           >
             Check the news
             <svg
