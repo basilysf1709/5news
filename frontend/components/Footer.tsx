@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { useState } from "react";
 
-const Footer = () => {
+export const Footer = () => {
   return (
     <footer className="bg-white">
       <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
@@ -132,5 +132,3 @@ const Footer = () => {
     </footer>
   );
 };
-
-export default Footer;
