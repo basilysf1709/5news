@@ -27,7 +27,7 @@ export default function Home() {
         Object.keys(data).forEach(newsChannel => {
           const channelData = data[newsChannel];
   
-          if (channelData['political-spectrum'] === 'left') {
+          if (channelData['political-spectrum'] === 'centre-left') {
             channelData.headlines.forEach((headline : any) => {
               allHeadlines.push({
                 newsChannel: newsChannel, // Using the key as the news channel name
@@ -51,10 +51,10 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <Tabbar wing="/" />
-      <MovingWords text="Keywords popular on the left today:" />
+      <Tabbar wing="centre-left"/>
+      <MovingWords text="Keywords popular on the centre-left today:" />
       <Keywords />
-      <MovingWords text="Reported headlines on the left today:" />
+      <MovingWords text="Reported headlines on the centre-left today:" />
       {headlines.map(headline => (
         <Card
           newsChannel={headline.newsChannel}
