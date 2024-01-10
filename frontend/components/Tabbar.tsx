@@ -1,6 +1,7 @@
 'use client'
 import Link from "next/link";
-import { useRouter } from 'next/navigation';
+import { useRouter, usePathname } from 'next/navigation';
+
 
 type TabbarProps = {
   wing: string;
@@ -9,6 +10,7 @@ type TabbarProps = {
 
 
 export const Tabbar: React.FC<TabbarProps> = ({ wing }) => {
+  const pathname = usePathname()
   const router = useRouter();
   const handleSelectChange = (event : any) => {
     router.push(event.target.value);
@@ -28,6 +30,7 @@ export const Tabbar: React.FC<TabbarProps> = ({ wing }) => {
           id="tabs"
           className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
           onChange={handleSelectChange}
+          value={pathname}
         >
           <option value="/">Left</option>
           <option value="/centre-left">Centre-Left</option>

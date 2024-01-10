@@ -7,7 +7,7 @@ type MovingWordsProps = {
 export const MovingWords: React.FC<MovingWordsProps> = ({ text }) => {
   return (
     <div className="mx-20 my-16 text-3xl font-semibold leading-relaxed text-gray-700 dark:text-white md:text-4xl">
-      <Typewriter
+      {/* <Typewriter
         onInit={(typewriter) => {
           typewriter
             .typeString(text)
@@ -21,7 +21,8 @@ export const MovingWords: React.FC<MovingWordsProps> = ({ text }) => {
           autoStart: true,
           loop: false,
         }}
-      />
+      /> */}
+      {text}
     </div>
   );
 };
