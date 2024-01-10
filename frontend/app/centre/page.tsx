@@ -53,7 +53,7 @@ export default function Home() {
       <Navbar />
       <Tabbar wing="centre"/>
       <MovingWords text="Keywords popular on the centre today:" />
-      <Keywords />
+      <Keywords wing="left"/>
       <MovingWords text="Reported headlines on the centre today:" />
       {headlines.map((headline, index) => (
         <Card

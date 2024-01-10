@@ -22,7 +22,7 @@ export const Tabbar: React.FC<TabbarProps> = ({ wing }) => {
 
   return (
     <>
-      <div className="m-20 sm:hidden">
+      <div className="sm:hidden w-full px-4 pt-16">
         <label htmlFor="tabs" className="sr-only">
           Select political spectrum
         </label>

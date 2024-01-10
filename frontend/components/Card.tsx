@@ -8,7 +8,7 @@ type CardProps = {
 export const Card: React.FC<CardProps> = ({ newsChannel, headlines, url }) => {
   return (
     <>
-      <div className="mx-20 my-16 flex flex-col bg-white border shadow-sm rounded-xl">
+      <div className="mx-4 my-16 sm:mx-20 sm:my-16 flex flex-col bg-white border shadow-sm rounded-xl">
         <div className="p-4 md:p-5">
           <h3 className="text-lg font-bold text-gray-800">
             Reported by {newsChannel}

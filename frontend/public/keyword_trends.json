@@ -1,55 +1,57 @@
 {
     "left": {
-        "india": 3,
-        "son": 1,
+        "india": 2,
+        "sena": 0,
         "ram": 0,
-        "ceo": 1,
-        "pm": 0,
-        "modi": 0,
-        "ayodhya": 0
+        "speaker": 1,
+        "shinde": 0,
+        "real": 0,
+        "says": 0
     },
     "centre-left": {
-        "india": 3,
-        "son": 1,
-        "ram": 0,
-        "ceo": 2,
-        "pm": 2,
-        "modi": 0,
-        "ayodhya": 0
+        "india": 1,
+        "sena": 0,
+        "ram": 2,
+        "speaker": 0,
+        "shinde": 0,
+        "real": 1,
+        "says": 1
     },
     "centre": {
-        "india": 1,
-        "son": 1,
-        "ram": 1,
-        "ceo": 0,
-        "pm": 0,
-        "modi": 0,
-        "ayodhya": 2
+        "india": 5,
+        "sena": 1,
+        "ram": 2,
+        "speaker": 1,
+        "shinde": 1,
+        "real": 1,
+        "says": 2
     },
     "centre-right": {
-        "india": 7,
-        "son": 11,
-        "ram": 8,
-        "ceo": 5,
-        "pm": 6,
-        "modi": 6,
-        "ayodhya": 4
+        "india": 8,
+        "sena": 7,
+        "ram": 5,
+        "speaker": 4,
+        "shinde": 4,
+        "real": 4,
+        "says": 3
     },
     "right": {
-        "india": 5,
-        "son": 2,
-        "ram": 0,
-        "ceo": 0,
-        "pm": 1,
-        "modi": 1,
-        "ayodhya": 0
+        "india": 1,
+        "sena": 1,
+        "ram": 2,
+        "speaker": 1,
+        "shinde": 1,
+        "real": 0,
+        "says": 0
     },
     "left_keywords": [],
     "right_keywords": [
-        "son",
+        "india",
+        "sena",
         "ram",
-        "pm",
-        "modi",
-        "ayodhya"
+        "speaker",
+        "shinde",
+        "real",
+        "says"
     ]
 }
