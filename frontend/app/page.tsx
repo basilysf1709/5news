@@ -19,7 +19,7 @@ export default function Home() {
   const [headlines, setHeadlines] = useState<Headline[]>([]);
 
   useEffect(() => {
-    fetch('http://localhost:3000/api/v1/headlines')
+    fetch('/api/v1/headlines')
       .then(response => response.json())
       .then((data) => {
         const allHeadlines : any= [];
