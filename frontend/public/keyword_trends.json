@@ -1,0 +1,55 @@
+{
+    "left": {
+        "india": 3,
+        "son": 1,
+        "ram": 0,
+        "ceo": 1,
+        "pm": 0,
+        "modi": 0,
+        "ayodhya": 0
+    },
+    "centre-left": {
+        "india": 3,
+        "son": 1,
+        "ram": 0,
+        "ceo": 2,
+        "pm": 2,
+        "modi": 0,
+        "ayodhya": 0
+    },
+    "centre": {
+        "india": 1,
+        "son": 1,
+        "ram": 1,
+        "ceo": 0,
+        "pm": 0,
+        "modi": 0,
+        "ayodhya": 2
+    },
+    "centre-right": {
+        "india": 7,
+        "son": 11,
+        "ram": 8,
+        "ceo": 5,
+        "pm": 6,
+        "modi": 6,
+        "ayodhya": 4
+    },
+    "right": {
+        "india": 5,
+        "son": 2,
+        "ram": 0,
+        "ceo": 0,
+        "pm": 1,
+        "modi": 1,
+        "ayodhya": 0
+    },
+    "left_keywords": [],
+    "right_keywords": [
+        "son",
+        "ram",
+        "pm",
+        "modi",
+        "ayodhya"
+    ]
+}

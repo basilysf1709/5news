@@ -1,55 +1,55 @@
 {
     "left": {
-        "india": 0,
-        "maldives": 1,
-        "modi": 3,
-        "delhi": 0,
-        "pm": 2,
-        "lakshadweep": 0,
-        "bilkis": 0
+        "india": 3,
+        "pm": 0,
+        "modi": 0,
+        "ceo": 1,
+        "son": 0,
+        "ram": 0,
+        "gujarat": 0
     },
     "centre-left": {
-        "india": 3,
-        "maldives": 1,
-        "modi": 1,
-        "delhi": 0,
-        "pm": 1,
-        "lakshadweep": 1,
-        "bilkis": 1
+        "india": 4,
+        "pm": 2,
+        "modi": 0,
+        "ceo": 2,
+        "son": 1,
+        "ram": 1,
+        "gujarat": 0
     },
     "centre": {
         "india": 2,
-        "maldives": 0,
-        "modi": 0,
-        "delhi": 0,
         "pm": 0,
-        "lakshadweep": 0,
-        "bilkis": 2
+        "modi": 0,
+        "ceo": 0,
+        "son": 0,
+        "ram": 0,
+        "gujarat": 1
     },
     "centre-right": {
-        "india": 8,
-        "maldives": 3,
-        "modi": 4,
-        "delhi": 7,
-        "pm": 5,
-        "lakshadweep": 4,
-        "bilkis": 5
+        "india": 7,
+        "pm": 8,
+        "modi": 8,
+        "ceo": 5,
+        "son": 9,
+        "ram": 6,
+        "gujarat": 4
     },
     "right": {
         "india": 4,
-        "maldives": 3,
-        "modi": 1,
-        "delhi": 0,
         "pm": 1,
-        "lakshadweep": 3,
-        "bilkis": 0
+        "modi": 1,
+        "ceo": 0,
+        "son": 2,
+        "ram": 0,
+        "gujarat": 1
     },
     "left_keywords": [],
     "right_keywords": [
-        "india",
-        "maldives",
-        "delhi",
-        "lakshadweep",
-        "bilkis"
+        "pm",
+        "modi",
+        "son",
+        "ram",
+        "gujarat"
     ]
 }
