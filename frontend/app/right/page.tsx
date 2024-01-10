@@ -55,8 +55,9 @@ export default function Home() {
       <MovingWords text="Keywords popular on the right today:" />
       <Keywords />
       <MovingWords text="Reported headlines on the right today:" />
-      {headlines.map(headline => (
+      {headlines.map((headline, index) => (
         <Card
+          key={index}
           newsChannel={headline.newsChannel}
           headlines={headline.headline}
           url={headline.url}
