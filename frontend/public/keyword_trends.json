@@ -1,57 +1,55 @@
 {
     "left": {
-        "india": 2,
-        "sena": 0,
-        "ram": 0,
-        "speaker": 1,
-        "shinde": 0,
-        "real": 0,
-        "says": 0
+        "ram": 1,
+        "india": 1,
+        "bjp": 0,
+        "congress": 0,
+        "delhi": 0,
+        "temple": 0,
+        "son": 2
     },
     "centre-left": {
-        "india": 1,
-        "sena": 0,
-        "ram": 2,
-        "speaker": 0,
-        "shinde": 0,
-        "real": 1,
-        "says": 1
+        "ram": 5,
+        "india": 2,
+        "bjp": 2,
+        "congress": 0,
+        "delhi": 1,
+        "temple": 1,
+        "son": 2
     },
     "centre": {
-        "india": 5,
-        "sena": 1,
         "ram": 2,
-        "speaker": 1,
-        "shinde": 1,
-        "real": 1,
-        "says": 2
+        "india": 1,
+        "bjp": 0,
+        "congress": 1,
+        "delhi": 0,
+        "temple": 1,
+        "son": 3
     },
     "centre-right": {
+        "ram": 9,
         "india": 8,
-        "sena": 7,
-        "ram": 5,
-        "speaker": 4,
-        "shinde": 4,
-        "real": 4,
-        "says": 3
+        "bjp": 6,
+        "congress": 6,
+        "delhi": 4,
+        "temple": 4,
+        "son": 3
     },
     "right": {
+        "ram": 3,
         "india": 1,
-        "sena": 1,
-        "ram": 2,
-        "speaker": 1,
-        "shinde": 1,
-        "real": 0,
-        "says": 0
+        "bjp": 0,
+        "congress": 0,
+        "delhi": 1,
+        "temple": 0,
+        "son": 1
     },
     "left_keywords": [],
     "right_keywords": [
         "india",
-        "sena",
-        "ram",
-        "speaker",
-        "shinde",
-        "real",
-        "says"
+        "bjp",
+        "congress",
+        "delhi",
+        "temple"
     ]
 }
