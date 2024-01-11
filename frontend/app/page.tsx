@@ -52,7 +52,7 @@ export default function Home() {
     <>
       <Navbar />
       <Tabbar wing="/" />
-      <MovingWords text="Ali will never get a girlfriend:" />
+      <MovingWords text="Keywords popular on the left today:" />
       <Keywords wing="left"/>
       <MovingWords text="Reported headlines on the left today:" />
       {headlines.map((headline, index) => (
