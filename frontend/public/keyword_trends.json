@@ -2,56 +2,54 @@
     "left": {
         "ram": 1,
         "india": 1,
-        "pm": 1,
-        "mumbai": 1,
-        "modi": 0,
-        "2024": 0,
-        "temple": 1
+        "bjp": 0,
+        "congress": 0,
+        "delhi": 0,
+        "temple": 0,
+        "son": 2
     },
     "centre-left": {
-        "ram": 1,
-        "india": 1,
-        "pm": 2,
-        "mumbai": 0,
-        "modi": 0,
-        "2024": 1,
-        "temple": 0
+        "ram": 5,
+        "india": 2,
+        "bjp": 2,
+        "congress": 0,
+        "delhi": 1,
+        "temple": 1,
+        "son": 2
     },
     "centre": {
-        "ram": 1,
-        "india": 4,
-        "pm": 0,
-        "mumbai": 0,
-        "modi": 1,
-        "2024": 0,
-        "temple": 1
+        "ram": 2,
+        "india": 1,
+        "bjp": 0,
+        "congress": 1,
+        "delhi": 0,
+        "temple": 1,
+        "son": 3
     },
     "centre-right": {
-        "ram": 8,
+        "ram": 9,
         "india": 8,
-        "pm": 5,
-        "mumbai": 4,
-        "modi": 4,
-        "2024": 7,
-        "temple": 4
+        "bjp": 6,
+        "congress": 6,
+        "delhi": 4,
+        "temple": 4,
+        "son": 3
     },
     "right": {
         "ram": 3,
         "india": 1,
-        "pm": 3,
-        "mumbai": 1,
-        "modi": 3,
-        "2024": 0,
-        "temple": 1
+        "bjp": 0,
+        "congress": 0,
+        "delhi": 1,
+        "temple": 0,
+        "son": 1
     },
     "left_keywords": [],
     "right_keywords": [
-        "ram",
         "india",
-        "pm",
-        "mumbai",
-        "modi",
-        "2024",
+        "bjp",
+        "congress",
+        "delhi",
         "temple"
     ]
 }
