@@ -1,54 +1,56 @@
 {
     "left": {
-        "india": 0,
+        "india": 2,
         "ram": 0,
-        "2024": 0,
-        "temple": 0,
+        "congress": 0,
+        "nitish": 1,
         "delhi": 0,
-        "bengal": 0,
-        "bjp": 0
+        "pm": 0,
+        "maldives": 1
     },
     "centre-left": {
-        "india": 5,
-        "ram": 4,
-        "2024": 0,
-        "temple": 1,
+        "india": 0,
+        "ram": 0,
+        "congress": 0,
+        "nitish": 0,
         "delhi": 0,
-        "bengal": 2,
-        "bjp": 0
+        "pm": 0,
+        "maldives": 0
     },
     "centre": {
-        "india": 6,
-        "ram": 3,
-        "2024": 0,
-        "temple": 2,
+        "india": 5,
+        "ram": 1,
+        "congress": 1,
+        "nitish": 1,
         "delhi": 0,
-        "bengal": 0,
-        "bjp": 0
+        "pm": 0,
+        "maldives": 1
     },
     "centre-right": {
-        "india": 9,
+        "india": 12,
         "ram": 7,
-        "2024": 8,
-        "temple": 4,
-        "delhi": 6,
-        "bengal": 2,
-        "bjp": 4
+        "congress": 5,
+        "nitish": 3,
+        "delhi": 4,
+        "pm": 4,
+        "maldives": 1
     },
     "right": {
-        "india": 1,
-        "ram": 1,
-        "2024": 0,
-        "temple": 0,
-        "delhi": 0,
-        "bengal": 2,
-        "bjp": 2
+        "india": 3,
+        "ram": 0,
+        "congress": 1,
+        "nitish": 1,
+        "delhi": 1,
+        "pm": 1,
+        "maldives": 1
     },
     "left_keywords": [],
     "right_keywords": [
-        "2024",
-        "temple",
+        "india",
+        "ram",
+        "congress",
+        "nitish",
         "delhi",
-        "bjp"
+        "pm"
     ]
 }

@@ -36,7 +36,7 @@ for news_source, content in headlines_data.items():
         all_words.update(tokenize(headline_data['headline']))
 
 # Identify the top 7 most common words, excluding very common English words
-common_english_words = set(['after', '5', 'over', 's', 'amid', 'the', 'of', 'in', 'and', 'to', 'a', 'is', 'on', 'for', 'with', 'at', 'by', 'from', 'as', 'will', 'all'])
+common_english_words = set(['after', '5', 'over', 's', 'amid', 'the', 'of', 'in', 'and', 'to', 'a', 'is', 'on', 'for', 'with', 'at', 'by', 'from', 'as', 'will', 'all', 'be', 'says', 'this', 't', 'no'])
 keywords = [word for word, count in all_words.most_common() if word not in common_english_words][:7]
 
 print("Top 7 Keywords:", keywords)
