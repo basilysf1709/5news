@@ -19,6 +19,10 @@
                 "url": "https://www.indiatimes.com/news/india/human-trafficking-passengers-of-failed-flight-to-nicaragua-quizzed-by-gujarat-police-624429.html"
             },
             {
+                "headline": "This COVID-19 Vaccine Can Protect Against Future Variants",
+                "url": "https://www.indiatimes.com/news/india/iiscs-covid-19-vaccine-candidate-that-can-protect-against-future-variants-625198.html"
+            },
+            {
                 "headline": "At 3.9 Degree Celsius, Delhi Sees The Coldest Day This Winter",
                 "url": "https://www.indiatimes.com/news/india/cold-wave-at-39-degree-celsius-delhi-sees-the-coldest-day-this-winter-625182.html"
             },
@@ -29,10 +33,6 @@
             {
                 "headline": "Ram Temple: 500 kg Nagada From Gujarat Reaches Ayodhya",
                 "url": "https://www.indiatimes.com/news/india/ayodhya-ram-temple-500-kg-nagada-from-gujarat-reaches-city-of-lord-ram-625173.html"
-            },
-            {
-                "headline": "Atal Setu: Know All About The Mumbai Trans Harbour Link",
-                "url": "https://www.indiatimes.com/news/india/atal-sethu-inauguration-all-you-need-to-know-about-the-mumbai-trans-harbour-link-625167.html"
             }
         ]
     },
@@ -40,28 +40,28 @@
         "political-spectrum": "left",
         "headlines": [
             {
-                "headline": "If Caught In US, Punjab Fliers On \"Donkey Flight\" Were Told To Say...",
+                "headline": "If Caught In US, Punjab Fliers On 'Donkey Flight' Were Told To Say...",
                 "url": "https://www.ndtv.com/india-news/if-caught-in-us-punjab-fliers-on-donkey-flight-were-told-to-say-4851781#News_Trending"
             },
             {
-                "headline": "\"Devotee Chosen By Lord Ram\": Advani Praises PM Before Ayodhya Temple Event",
-                "url": "https://www.ndtv.com/india-news/ram-temple-ayodhya-pran-prathishta-lk-advani-rath-yatra-destiny-decided-i-was-just-the-charioteer-lk-advani-on-ram-temple-4849854#News_Trending"
+                "headline": "\"I Am A Former Chief Minister, Not A Rejected One\": Shivraj Chouhan",
+                "url": "https://www.ndtv.com/india-news/i-am-a-former-chief-minister-not-a-rejected-one-shivraj-chouhan-4851703#News_Trending"
             },
             {
-                "headline": "\"Ball-By-Ball Commentary...\": Raghav Chadha On Congress Alliance Talks",
-                "url": "https://www.ndtv.com/india-news/ball-by-ball-commentary-raghav-chadha-on-congress-alliance-talks-4851420#News_Trending"
+                "headline": "Mumbai-Guwahati IndiGo Flight Makes Emergency Landing In Dhaka",
+                "url": "https://www.ndtv.com/india-news/mumbai-guwahati-indigo-flight-makes-emergency-landing-in-dhaka-4853340#News_Trending"
             },
             {
-                "headline": "Pics: Once Asia's Most Eligible Bachelor, Brunei Prince Marries A Commoner",
-                "url": "https://www.ndtv.com/world-news/pics-once-asias-most-eligible-bachelor-brunei-prince-marries-a-commoner-4848453#News_Trending"
+                "headline": "'Dead Man' Comes Alive After Ambulance Hits Pothole In Haryana: Family",
+                "url": "https://www.ndtv.com/india-news/dead-man-comes-alive-after-ambulance-hits-pothole-in-haryana-family-4850822#News_Trending"
             },
             {
-                "headline": "Mumbai To Navi Mumbai In 20 Minutes As India's Longest Sea Bridge Opens",
-                "url": "https://www.ndtv.com/india-news/pm-inaugurates-mumbai-trans-harbour-link-indias-longest-sea-bridge-4848937#News_Trending"
+                "headline": "US Launches Fresh Strikes On Houthis As Biden Vows To Keep Pressure On",
+                "url": "https://www.ndtv.com/world-news/us-launches-fresh-strikes-on-houthis-after-biden-vows-to-keep-pressure-on-4853149#News_Trending"
             },
             {
-                "headline": "10 Shocking Revelations Since Bengaluru CEO's Arrest For Son's Murder",
-                "url": "https://www.ndtv.com/india-news/goa-murder-suchana-seth-10-shocking-revelations-since-bengaluru-ceos-arrest-for-sons-murder-4848090#News_Trending"
+                "headline": "Dosa Seller's Cheeky Jibe At Corporate Employees' Earnings Sparks Meme Fest",
+                "url": "https://food.ndtv.com/news/dosa-seller-s-cheeky-jibe-at-corporate-employee-s-earnings-sparks-meme-fest-4849182#News_Trending"
             }
         ]
     },
@@ -69,20 +69,20 @@
         "political-spectrum": "right",
         "headlines": [
             {
-                "headline": "What PM Modi May Do in Anushthan Before Ayodhya Visit: Sleep on Floor, Jaap, Satvic Food",
-                "url": "https://www.news18.com/india/what-pm-narendra-modi-may-do-in-anushthan-before-ayodhya-visit-sleeping-on-floor-up-before-sunrise-jaap-satvic-food-8737541.html"
+                "headline": "'Crime to be Hindu in Bengal': BJP Attacks TMC After 3 Sadhus Assaulted, Calls it ‘Palghar-Like Lynching’",
+                "url": "https://www.news18.com/politics/west-bengal-sadhus-stripped-assaulted-by-mob-purulia-bjp-attacks-tmc-palghar-like-lynching-8738329.html"
             },
             {
-                "headline": "Mumbai Trans Harbour Link: How Atal Setu Will Change The Game for Real Estate | Explained",
-                "url": "https://www.news18.com/india/mumbai-trans-harbour-link-how-atal-setu-will-change-the-game-for-real-estate-explained-8738148.html"
+                "headline": "Traffic Curbs in Mumbai Today as City Preps for Grand Air Show After Atal Setu Launch | Visuals",
+                "url": "https://www.news18.com/india/mumbai-news-air-show-2024-marine-drive-timings-airport-traffic-curbs-suryakiran-8738318.html"
             },
             {
-                "headline": "200 UP Police Personnel with Counterterror Training from NSG to Guard Ayodhya Ram Temple",
-                "url": "https://www.news18.com/india/200-up-police-personnel-with-counterterror-training-from-nsg-to-guard-ayodhya-ram-temple-8738065.html"
+                "headline": "Ram Mandir Visit on Mind? News18 Explores Air, Road, Rail Options That Will Fit Your Budget",
+                "url": "https://www.news18.com/auto/ram-mandir-inauguration-transportation-options-for-devotees-heading-to-ayodhya-8738080.html"
             },
             {
-                "headline": "Dhruv Jurel Gets Maiden Call-up as India Announce Squad For First Two Tests Versus England",
-                "url": "https://www.news18.com/cricket/dhruv-jurel-gets-maiden-call-up-as-india-announce-squad-for-first-two-test-versus-england-8729409.html"
+                "headline": "Ankita Lokhande Breaks Down, Apologises To Vicky Jain's Family For Hitting Him: 'Haath Jodke Sorry...'",
+                "url": "https://www.news18.com/movies/ankita-lokhande-breaks-down-apologises-to-vicky-jain-family-for-hitting-him-haath-jodke-sorry-8738309.html"
             }
         ]
     },
@@ -90,52 +90,52 @@
         "political-spectrum": "centre-left",
         "headlines": [
             {
-                "headline": "Tests vs England: Ishan Kishan overlooked, Dhruv Jurel called up, as India announce four-prone spin attack",
+                "headline": "INDIA alliance’s Bengal predicament, and will it finally appoint a convener?",
+                "url": "https://indianexpress.com/article/political-pulse/today-in-politics-india-alliances-bengal-predicament-and-convener-appointment-9107514/"
+            },
+            {
+                "headline": "Disastrous Ranji match wakes up Bihar govt — from stadium repair to new sports dept",
+                "url": "https://indianexpress.com/article/cities/patna/stadium-repairs-new-dept-ranji-disaster-rouses-bihar-govt-9107468/"
+            },
+            {
+                "headline": "India’s lentil production set to touch all-time high: Govt",
+                "url": "https://indianexpress.com/article/business/commodities/indias-lentil-production-set-to-touch-all-time-high-govt-9107369/"
+            },
+            {
+                "headline": "India to become 3rd largest economy in 5 years, during PM’s 3rd term: Shah",
+                "url": "https://indianexpress.com/article/cities/ahmedabad/india-to-become-3rd-largest-economy-in-5-years-during-pms-3rd-term-shah-9107355/"
+            },
+            {
+                "headline": "Friends in Congress say party’s decision to stay away from Ram temple openining counter-productive: Puri",
+                "url": "https://indianexpress.com/article/india/friends-in-congress-say-partys-decision-to-stay-away-from-ram-temple-openining-counter-productive-puri-9107322/"
+            },
+            {
+                "headline": "Father of AN-32 navigator Flt Lt Kunal: ‘Our questions remain unanswered’",
+                "url": "https://indianexpress.com/article/cities/pune/father-32-navigator-flt-lt-kunal-questions-unanswered-9107567/"
+            },
+            {
+                "headline": "Why HPV vaccine push matters",
+                "url": "https://indianexpress.com/article/health-wellness/hpv-vaccine-cervical-cancer-girls-immunisation-programme-9106759/"
+            },
+            {
+                "headline": "MP comes up with grand plan to celebrate: 5 lakh laddoos to Ram Leelas, kirtans",
+                "url": "https://indianexpress.com/article/political-pulse/madhya-pradesh-comes-up-with-grand-plan-to-celebrate-ram-mandir-opening-5-lakh-laddoos-to-ram-leelas-kirtans-9107328/"
+            },
+            {
+                "headline": "TMC heavyweight, Durga Puja patron, now a person of interest for ED: Who is Bengal minister Sujit Bose?",
+                "url": "https://indianexpress.com/article/political-pulse/tmc-heavyweight-durga-puja-patron-now-a-person-of-interest-for-ed-who-is-bengal-minister-sujit-bose-9107302/"
+            },
+            {
+                "headline": "At trade meet, India seeks more pharma inspections & easier visas, US flags laptop import monitoring",
+                "url": "https://indianexpress.com/article/business/at-trade-meet-india-seeks-more-pharma-inspections-easier-visas-us-flags-laptop-import-monitoring-9107316/"
+            },
+            {
+                "headline": "Mizoram forms panel to resolve border dispute with Assam",
+                "url": "https://indianexpress.com/article/india/mizoram-forms-panel-to-resolve-border-dispute-with-assam-9107404/"
+            },
+            {
+                "headline": "Tests vs England: Ishan Kishan overlooked, Dhruv Jurel called up, as India announce four-prong spin attack",
                 "url": "https://indianexpress.com/article/sports/cricket/india-announces-squad-to-face-england-for-first-2-tests-series-9107295/"
-            },
-            {
-                "headline": "From 'murdering' son to leaving note in hotel room, a look at top developments",
-                "url": "https://indianexpress.com/article/india/suchana-seth-case-murder-son-important-developments-9106789/"
-            },
-            {
-                "headline": "School holidays in Chandigarh likely to be extended by a week due to cold wave",
-                "url": "https://indianexpress.com/article/cities/chandigarh/school-holidays-week-extension-cold-wave-9107118/"
-            },
-            {
-                "headline": "Army convoy attacked by suspected militants near J-K's Poonch; no casualties reported",
-                "url": "https://indianexpress.com/article/india/militants-army-convoy-jammu-kashmir-poonch-9107164/"
-            },
-            {
-                "headline": "Punjabis borrowed Rs 14,342 crores to migrate to Canada, Dubai, finds PAU study",
-                "url": "https://indianexpress.com/article/cities/chandigarh/punjabis-borrowed-14342-crores-migrate-pau-study-9107084/"
-            },
-            {
-                "headline": "At 79, paediatric surgeon back in the classroom, enrols for PhD at IIT Kanpur",
-                "url": "https://indianexpress.com/article/india/79-paediatric-surgeon-classroom-enrols-phd-iit-kanpur-9106072/"
-            },
-            {
-                "headline": "Wife’s refusal to have physical relations with husband amounts to cruelty: Madhya Pradesh HC",
-                "url": "https://indianexpress.com/article/india/husband-wife-physical-relations-cruelty-madhya-pradesh-high-court-9106720/"
-            },
-            {
-                "headline": "12th  January, 2024: International Court of Justice, Atal Setu Nhava Sheva Sea Link and Cervical cancer",
-                "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-12th-january-2024-international-court-of-justice-atal-setu-nhava-sheva-sea-link-and-cervical-cancer-9107166/"
-            },
-            {
-                "headline": "Who are the Shia Houthis, and why are they aligned with the Sunni Palestinian Hamas?",
-                "url": "https://indianexpress.com/article/explained/explained-global/us-uk-strike-houthi-yemen-middle-east-9106645/"
-            },
-            {
-                "headline": "Terrific Katrina Kaif, Vijay Sethupathi deliver a solid start to the new year",
-                "url": "https://indianexpress.com/article/entertainment/movie-review/merry-christmas-movie-review-terrific-katrina-kaif-vijay-sethupathi-deliver-a-solid-start-to-the-new-year-9106203/"
-            },
-            {
-                "headline": "Sania Mirza says not enough credit is given to returning mothers",
-                "url": "https://indianexpress.com/article/sports/tennis/australian-open-2024-sania-mirza-says-not-enough-credit-is-given-to-returning-mothers-9107248/"
-            },
-            {
-                "headline": "'Vicky Kaushal runs on '4 hrs sleep' while Hrithik prioritises...': Trainer Kris Gethin on differences",
-                "url": "https://indianexpress.com/article/entertainment/bollywood/vicky-kaushal-hrithik-roshan-workout-differences-kris-gethin-9106184/"
             },
             {
                 "headline": "Symbiosis Literary Festival 2023 Triumphs in Cultivating Intellectual Dialogue and Diverse Perspectives",
@@ -155,32 +155,32 @@
         "political-spectrum": "centre-right",
         "headlines": [
             {
+                "headline": "Arvind Kejriwal summoned for fourth time in Delhi liquor policy case",
+                "url": "https://www.indiatoday.in/india/story/enforcement-directorate-summons-delhi-chief-minister-arvind-kejriwal-liquor-policy-case-2488140-2024-01-13?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
+                "headline": "3 sadhus from Uttar Pradesh, en route to Gangasagar Mela, assaulted in Bengal",
+                "url": "https://www.indiatoday.in/india/story/west-bengal-purulia-sadhus-assaulted-thrashed-on-suspicion-of-being-kidnappers-2488137-2024-01-13?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
+                "headline": "At 3.6°C, Delhi records season's coldest morning as capital shivers in cold wave",
+                "url": "https://www.indiatoday.in/india/story/trains-delayed-in-delhi-amid-fog-north-india-shivers-as-cold-wave-continues-2488115-2024-01-13?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
+                "headline": "Mumbai-Guwahati IndiGo flight lands in Dhaka due to fog, poor visibility",
+                "url": "https://www.indiatoday.in/india/story/indigo-flight-diverted-to-bangladesh-mumbai-to-guwahati-indigo-6e5319-flight-lands-in-dhaka-2488151-2024-01-13?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+            },
+            {
                 "headline": "Quality over quantity: Narayana Murthy on family time after '85-90 hour work' weeks",
                 "url": "https://www.indiatoday.in/business/story/narayana-murthy-infosys-sudha-family-time-quantity-over-quality-akshata-bonus-dad-90-hour-work-weeks-exclusive-2488098-2024-01-13?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
             },
             {
-                "headline": "Search operation launched after Army vehicles attacked in Jammu and Kashmir",
-                "url": "https://www.indiatoday.in/india/story/army-vehicle-attacked-in-jammu-and-kashmir-poonch-search-operations-launched-2488028-2024-01-12?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+                "headline": "US carries out fresh strikes on Houthis after Biden vows to keep pressure on",
+                "url": "https://www.indiatoday.in/world/story/houthis-yemen-us-uk-fresh-attacks-yemen-red-sea-joe-biden-pressure-on-ships-latest-news-2488145-2024-01-13?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
             },
             {
-                "headline": "Atal Setu opened by PM. Now, Mumbai-Navi Mumbai commute in 20 mins from 2 hours",
-                "url": "https://www.indiatoday.in/india/story/mumbai-trans-harbour-link-atal-setu-bridge-inaugurated-mumbai-navi-mumbai-commute-in-20-minutes-2487874-2024-01-12?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
-            },
-            {
-                "headline": "Israel uses India Today report in international court during Gaza deaths hearing",
-                "url": "https://www.indiatoday.in/law/story/israel-india-today-report-international-court-gaza-deaths-hearing-hamas-south-africa-icj-pa-2487875-2024-01-12?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
-            },
-            {
-                "headline": "'Fulfillment of a divine dream': LK Advani on Ram Mandir Pran Pratishtha",
-                "url": "https://www.indiatoday.in/india/story/lk-advani-on-ram-mandir-inauguration-modi-chosen-by-lord-ram-i-was-just-charioteer-2488013-2024-01-12?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
-            },
-            {
-                "headline": "Debris of IAF’s An-32 aircraft that went missing over Bay of Bengal in 2016 found",
-                "url": "https://www.indiatoday.in/india/story/indian-air-force-an-32-k-2743-plane-missing-chennai-coast-2487901-2024-01-12?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
-            },
-            {
-                "headline": "'Threw Divya Pahuja's body in canal': Ex-model murder accused tells cops",
-                "url": "https://www.indiatoday.in/india/story/divya-pahuja-murder-case-accused-gurugram-police-canal-body-patiala-2487939-2024-01-12?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+                "headline": "Netanyahu rejects genocide case, Turkey's Erdogan says 'Israel will be convicted'",
+                "url": "https://www.indiatoday.in/world/story/israel-hamas-war-latest-developments-genocide-charges-netanyahu-gaza-airstrikes-2488135-2024-01-13?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
             },
             {
                 "headline": "7 must-watch Indian sci-fi films",
@@ -207,8 +207,8 @@
                 "url": "https://www.indiatoday.in/visualstories/wellness/all-about-the-best-diet-of-2024-87979-11-01-2024"
             },
             {
-                "headline": "These 3 advices of Chanakya will bring success to your career",
-                "url": "https://www.indiatoday.in/visualstories/horoscope/these-3-advices-of-chanakya-will-bring-success-to-your-career-88115-12-01-2024"
+                "headline": "Today's Horoscope  13 January 2024  - Indiatoday",
+                "url": "https://www.indiatoday.in/visualstories/horoscope/daily-horoscope-today-s-13-january-2024-daily-horoscope-in-english-all-zodiac-signs-astrology-prediction-airf-88196-13-01-2024"
             },
             {
                 "headline": "10 Tips To Score 95+ Marks In  Class 10 Math Board Exam 2024",
@@ -223,7 +223,7 @@
                 "url": "https://www.indiatoday.in/visualstories/sports/suryakumar-yadav-making-baby-steps-as-injury-return-progresses-88169-12-01-2024"
             },
             {
-                "headline": "Narayan Murthy tells Rajdeep Sardesai why he doesn't regret '70-hour work' comment",
+                "headline": "Narayana Murthy tells Rajdeep Sardesai why he doesn't regret '70-hour work' comment",
                 "url": "https://www.indiatoday.in/business/video/exclusive-narayan-murthy-tells-rajdeep-sardesai-why-he-doesnt-regret-70-hour-work-comment-2488088-2024-01-12"
             },
             {
@@ -247,6 +247,14 @@
     "FinancialExpress": {
         "political-spectrum": "centre-right",
         "headlines": [
+            {
+                "headline": "‘Won’t be bogged down’: Congress says BJP insecure, resorting to cheap tactics to scuttle Rahul Gandhi’s Yatra",
+                "url": "https://www.financialexpress.com/india-news/wont-be-bogged-down-congress-says-bjp-insecure-resorting-to-cheap-tactics-to-scuttle-rahul-gandhis-yatra/3363356/"
+            },
+            {
+                "headline": "IMD Weather Update: Delhi recorded season’s coldest morning; chilly conditions persist over north India – Check full forecast",
+                "url": "https://www.financialexpress.com/india-news/imd-weather-update-delhi-recorded-seasons-coldest-morning-chilly-conditions-persist-over-north-india-check-full-forecast/3363483/"
+            },
             {
                 "headline": "Will Nitish Kumar be convener of INDIA bloc? Announcement likely tomorrow as Opposition leaders to meet virtually",
                 "url": "https://www.financialexpress.com/india-news/will-nitish-kumar-be-convener-of-india-bloc-announcement-likely-tomorrow-as-opposition-leaders-to-meet-virtually/3363352/"
@@ -314,14 +322,6 @@
             {
                 "headline": "Supreme Court refuses to stay new law on appointment of Chief Election Commissioner",
                 "url": "https://www.financialexpress.com/india-news/supreme-court-refuses-to-stay-new-law-on-appointment-of-chief-election-commissioner/3362787/"
-            },
-            {
-                "headline": "Goa Police finds Bengaluru CEO’s note written with eyeliner, indicates custody battle frustration",
-                "url": "https://www.financialexpress.com/india-news/goa-police-finds-suchana-seth-handwritten-note-with-eyeliner-indicates-custody-battle/3362737/"
-            },
-            {
-                "headline": "Delhi records coldest morning of the season at 3.9 degrees Celsius",
-                "url": "https://www.financialexpress.com/india-news/delhi-records-coldest-morning-of-the-season-at-3-9-degrees-celsius/3362653/"
             }
         ]
     },
@@ -329,24 +329,24 @@
         "political-spectrum": "right",
         "headlines": [
             {
-                "headline": "Ram Mandir: Moni Baba, Silent Since Age Of 10, Will Chant Lord Ram's Name On January 22",
-                "url": "https://www.timesnownews.com/india/ram-mandir-moni-baba-silent-since-age-of-10-will-chant-lord-rams-name-on-january-22-article-106783339"
+                "headline": "BJP Unleashes Fury At Mamata Banerjee Over 'Palghar-Kind Lynching' In Bengal",
+                "url": "https://www.timesnownews.com/india/bjp-unleashes-fury-at-mamata-banerjee-over-palghar-kind-lynching-in-bengal-article-106800165"
             },
             {
-                "headline": "'Jai Shri Ram': What PM Modi Wrote In Visitors Book At Ganga Godavari Sangh In Nashik",
-                "url": "https://www.timesnownews.com/india/jai-shri-ram-what-pm-modi-wrote-in-visitors-book-at-ganga-godavari-sangh-in-nashik-article-106782861"
+                "headline": "IndiGo Flight To Guwahati Makes Emergency Landing Dhaka Due To Fog",
+                "url": "https://www.timesnownews.com/india/indigo-flight-to-guwahati-makes-emergency-landing-dhaka-due-to-fog-breaking-news-article-106796758"
             },
             {
-                "headline": "PM Modi Launches 'Nari Shakti Doot App' | Here's How It Will Benefit Women",
-                "url": "https://www.timesnownews.com/india/pm-modi-launches-nari-shakti-doot-app-heres-how-it-will-benefit-women-article-106782649"
+                "headline": "'Will Fight Own Govt If...': Shivraj Chouhan's Son Amid Father's Not 'Rejected CM' Remark",
+                "url": "https://www.timesnownews.com/india/madhya-pradesh-will-fight-own-govt-if-shivraj-chouhans-son-kartikey-amid-fathers-not-rejected-cm-remark-article-106798165"
             },
             {
-                "headline": "‘Serious Lapses’ In Mehbooba Mufti’s Security? PDP Leader's Big Claim After Road Accident",
-                "url": "https://www.timesnownews.com/india/serious-lapses-in-mehbooba-muftis-security-pdp-leaders-big-claim-after-road-accident-article-106781102"
+                "headline": "Agriculture Expert Dies After Collapsing During Doordarshan Live Broadcast In Kerala",
+                "url": "https://www.timesnownews.com/india/agriculture-expert-dies-after-collapsing-during-doordarshan-live-broadcast-in-kerala-article-106796081"
             },
             {
-                "headline": "Pothole Turns Into Lifesaver: How 'Dead' Man Came Alive On Way To Last Rites",
-                "url": "https://www.timesnownews.com/india/pothole-turns-into-lifesaver-how-dead-man-came-alive-on-way-to-last-rites-article-106779390"
+                "headline": "How India Is Planning To Tackle Red Sea Shipping Crisis| Explained",
+                "url": "https://www.timesnownews.com/india/how-india-is-planning-to-tackle-red-sea-shipping-crisis-explained-article-106795040"
             }
         ]
     },
@@ -354,20 +354,20 @@
         "political-spectrum": "centre",
         "headlines": [
             {
-                "headline": "Rs 7,000 crore deals: Tata Consumer acquires Capital Foods, Organic India",
-                "url": "https://www.business-standard.com/companies/news/tata-consumers-to-acquire-capital-foods-for-enterprise-value-of-rs-5-100-cr-124011200994_1.html"
-            },
-            {
                 "headline": "Q3 results: Top 4 Indian IT companies balance caution and optimism",
                 "url": "https://www.business-standard.com/industry/news/q3-results-top-4-it-companies-cautiously-optimistic-for-the-future-124011200912_1.html"
             },
             {
-                "headline": "IIP growth at 8-month low in November, retail inflation rises in December",
-                "url": "https://www.business-standard.com/budget/news/iip-dips-in-nov-retail-inflation-rises-in-dec-ahead-of-interim-budget-124011200900_1.html"
+                "headline": "Likely pact with Oman comes as a welcome surprise in India's FTA drive",
+                "url": "https://www.business-standard.com/economy/news/likely-pact-with-oman-comes-as-a-welcome-surprise-in-india-s-fta-drive-124011201078_1.html"
             },
             {
                 "headline": "US to India: Ensure personal computer import rules don't hurt trade",
                 "url": "https://www.business-standard.com/economy/news/us-urges-india-to-avoid-restricting-trade-with-new-it-import-system-124011200979_1.html"
+            },
+            {
+                "headline": "Binance loses India traders to local companies it recently dominated",
+                "url": "https://www.business-standard.com/industry/news/binance-loses-india-traders-to-local-companies-it-recently-dominated-124011300092_1.html"
             },
             {
                 "headline": "Red Sea crisis pumps up global container prices, ocean freight rates",
@@ -379,28 +379,28 @@
         "political-spectrum": "centre",
         "headlines": [
             {
+                "headline": "Congress just blew a Ram-given opportunity. It chose chronic confusion over national mood",
+                "url": "https://theprint.in/national-interest/congress-just-blew-a-ram-given-opportunity-it-chose-chronic-confusion-over-national-mood/1921724/"
+            },
+            {
+                "headline": "Everyone wanted Ram temple, except Nehru—Balbir Punj promotes book Tryst With Ayodhya",
+                "url": "https://theprint.in/feature/around-town/everyone-wanted-ram-temple-except-nehru-balbir-punj-promotes-book-tryst-with-ayodhya/1921855/"
+            },
+            {
+                "headline": "2 jabs a year to keep bad cholesterol at bay — breakthrough treatment to launch in India this month",
+                "url": "https://theprint.in/health/2-jabs-a-year-to-keep-bad-cholesterol-at-bay-breakthrough-treatment-to-launch-in-india-this-month/1920914/"
+            },
+            {
+                "headline": "Encrypted mobiles with exclusive operating system — how Army is moving towards secure communication",
+                "url": "https://theprint.in/defence/encrypted-mobiles-with-exclusive-operating-system-how-army-is-moving-towards-secure-communication/1921412/"
+            },
+            {
                 "headline": "Unveiling India’s longest sea bridge MTHL, Modi makes big infra push, takes digs at past govt",
                 "url": "https://theprint.in/india/unveiling-indias-longest-sea-bridge-mthl-modi-makes-big-infra-push-takes-digs-at-past-govt/1921563/"
             },
             {
                 "headline": "Congress leader & ex-minister Karan Singh criticises move to decline Ram temple invite, cites SC order",
                 "url": "https://theprint.in/politics/congress-leader-ex-minister-karan-singh-criticises-move-to-decline-ram-temple-invite-cites-sc-order/1921587/"
-            },
-            {
-                "headline": "Deep sea exploration project unearths IAF aircraft AN-32 that went missing 8 years ago",
-                "url": "https://theprint.in/defence/deep-sea-exploration-project-unearths-iaf-aircraft-an-32-that-went-missing-8-years-ago/1921409/"
-            },
-            {
-                "headline": "Drug regulator gives conditional nod for sale of 5 FDCs, seeks efficacy & safety data for 3 of them",
-                "url": "https://theprint.in/health/drug-regulator-gives-conditional-nod-for-sale-of-5-fdcs-seeks-efficacy-safety-data-for-3-of-them/1921502/"
-            },
-            {
-                "headline": "SC takes note of ‘wrongful’ removal of 6 women judicial officers, seeks Madhya Pradesh HC’s response",
-                "url": "https://theprint.in/judiciary/sc-takes-note-of-wrongful-removal-of-6-women-judicial-officers-seeks-madhya-pradesh-hcs-response/1921604/"
-            },
-            {
-                "headline": "Netflix chose fear over fact. Removing ‘Annapoorani’ only feeds the bully",
-                "url": "https://theprint.in/opinion/pov/netflix-removed-annapoorani-feeds-vhp-bully/1921615/"
             }
         ]
     }
