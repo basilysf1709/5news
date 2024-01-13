@@ -4,45 +4,45 @@
         "ram": 0,
         "congress": 0,
         "nitish": 1,
-        "delhi": 0,
         "pm": 0,
-        "maldives": 1
+        "delhi": 0,
+        "president": 1
     },
     "centre-left": {
-        "india": 0,
-        "ram": 0,
+        "india": 3,
+        "ram": 1,
         "congress": 0,
         "nitish": 0,
+        "pm": 2,
         "delhi": 0,
-        "pm": 0,
-        "maldives": 0
+        "president": 1
     },
     "centre": {
         "india": 5,
         "ram": 1,
         "congress": 1,
         "nitish": 1,
-        "delhi": 0,
         "pm": 0,
-        "maldives": 1
+        "delhi": 0,
+        "president": 1
     },
     "centre-right": {
         "india": 12,
         "ram": 7,
         "congress": 5,
         "nitish": 3,
-        "delhi": 4,
         "pm": 4,
-        "maldives": 1
+        "delhi": 4,
+        "president": 3
     },
     "right": {
         "india": 3,
         "ram": 0,
         "congress": 1,
         "nitish": 1,
-        "delhi": 1,
         "pm": 1,
-        "maldives": 1
+        "delhi": 1,
+        "president": 0
     },
     "left_keywords": [],
     "right_keywords": [
@@ -50,7 +50,7 @@
         "ram",
         "congress",
         "nitish",
-        "delhi",
-        "pm"
+        "pm",
+        "delhi"
     ]
 }

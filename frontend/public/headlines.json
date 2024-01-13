@@ -86,6 +86,71 @@
             }
         ]
     },
+    "IndianExpress": {
+        "political-spectrum": "centre-left",
+        "headlines": [
+            {
+                "headline": "Rahul sets off on Yatra 2.0, focus on Hindi heartland states, SC, ST belts",
+                "url": "https://indianexpress.com/article/political-pulse/rahul-gandhi-bharat-jodo-nyay-yatra-congress-lok-sabha-elections-hindi-sc-st-9108294/"
+            },
+            {
+                "headline": "UK envoy to Pakistan visits PoK, India says 'unacceptable'",
+                "url": "https://indianexpress.com/article/india/infringement-country-sovereignty-india-protests-british-high-commissioner-visit-pok-9108014/"
+            },
+            {
+                "headline": "KK Pathak: Reformer for some, troublemaker for others, meet Bihar Education Dept official",
+                "url": "https://indianexpress.com/article/political-pulse/kk-pathak-bihar-education-acs-nitish-kumar-9108126/"
+            },
+            {
+                "headline": "Who is William Lai, the new president of Taiwan?",
+                "url": "https://indianexpress.com/article/explained/explained-global/who-is-william-lai-ching-te-new-president-taiwan-9108203/"
+            },
+            {
+                "headline": "Ex-model Divya Pahuja’s body found in Haryana canal after search across 2 states",
+                "url": "https://indianexpress.com/article/cities/delhi/body-of-gurgaon-model-divya-pahuja-found-haryana-canal-9107687/"
+            },
+            {
+                "headline": "The evolution of stock markets — the demutualisation story",
+                "url": "https://indianexpress.com/article/evergreen/stock-markets-evolution-demutualisation-story-9107737/"
+            },
+            {
+                "headline": "All the way from MP, comes the CM, as Bihar BJP fetes its Yadav connection",
+                "url": "https://indianexpress.com/article/political-pulse/mp-bihar-bjp-fetes-mohan-yadav-connection-9108259/"
+            },
+            {
+                "headline": "Opinion | Why I will light a diya for Sita",
+                "url": "https://indianexpress.com/article/opinion/columns/light-diya-sita-ram-mandir-religion-9108033/"
+            },
+            {
+                "headline": "Chasing monsoon for 150 years: The origin story of India Meteorological Department",
+                "url": "https://indianexpress.com/article/india/chasing-monsoon-150-years-origin-story-india-meteorological-department-9107666/"
+            },
+            {
+                "headline": "XECH iSoothe Eye Massager: The stress buster",
+                "url": "https://indianexpress.com/article/technology/tech-reviews/xech-isoothe-eye-massager-review-9107979/"
+            },
+            {
+                "headline": "KS Bharat, not KL Rahul to keep wickets during India-England home Test series",
+                "url": "https://indianexpress.com/article/sports/cricket/ks-bharat-not-kl-rahul-to-keep-wickets-during-india-england-home-test-series-9108240/"
+            },
+            {
+                "headline": "Do you eat breakfast by 8 am and dinner by 8 pm? Here's good news for your heart",
+                "url": "https://indianexpress.com/article/lifestyle/food-wine/meal-timings-circadian-diet-heart-health-9104729/"
+            },
+            {
+                "headline": "Symbiosis Literary Festival 2023 Triumphs in Cultivating Intellectual Dialogue and Diverse Perspectives",
+                "url": "https://indianexpress.com/article/education/sponsored-education/symbiosis-literary-festival-2023-triumphs-in-cultivating-intellectual-dialogue-and-diverse-perspectives-9106889/"
+            },
+            {
+                "headline": "Impact of External Research Funding: A Path Ahead in the Development of Research Universities",
+                "url": "https://indianexpress.com/article/education/sponsored-education/impact-of-external-research-funding-a-path-ahead-in-the-development-of-research-universities-9099876/"
+            },
+            {
+                "headline": "Prominent Attorney-General, Dr. R. Venkataramani, Enlightens Parul University Law Students on Complete Justice and Constitutional Values",
+                "url": "https://indianexpress.com/article/education/sponsored-education/prominent-attorney-general-dr-r-venkataramani-enlightens-parul-university-law-students-on-complete-justice-and-constitutional-values-9102796/"
+            }
+        ]
+    },
     "IndiaToday": {
         "political-spectrum": "centre-right",
         "headlines": [
