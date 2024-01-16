@@ -1,56 +1,54 @@
 {
     "left": {
-        "india": 2,
+        "india": 1,
         "ram": 0,
-        "congress": 0,
-        "nitish": 1,
+        "day": 0,
         "pm": 0,
-        "delhi": 0,
-        "president": 1
+        "mandir": 0,
+        "modi": 0,
+        "not": 1
     },
     "centre-left": {
-        "india": 3,
-        "ram": 1,
-        "congress": 0,
-        "nitish": 0,
-        "pm": 2,
-        "delhi": 0,
-        "president": 1
+        "india": 4,
+        "ram": 2,
+        "day": 1,
+        "pm": 4,
+        "mandir": 1,
+        "modi": 1,
+        "not": 2
     },
     "centre": {
-        "india": 5,
+        "india": 1,
         "ram": 1,
-        "congress": 1,
-        "nitish": 1,
+        "day": 2,
         "pm": 0,
-        "delhi": 0,
-        "president": 1
+        "mandir": 0,
+        "modi": 1,
+        "not": 1
     },
     "centre-right": {
-        "india": 12,
-        "ram": 7,
-        "congress": 5,
-        "nitish": 3,
-        "pm": 4,
-        "delhi": 4,
-        "president": 3
+        "india": 8,
+        "ram": 9,
+        "day": 4,
+        "pm": 3,
+        "mandir": 6,
+        "modi": 4,
+        "not": 3
     },
     "right": {
-        "india": 3,
-        "ram": 0,
-        "congress": 1,
-        "nitish": 1,
-        "pm": 1,
-        "delhi": 1,
-        "president": 0
+        "india": 2,
+        "ram": 3,
+        "day": 1,
+        "pm": 2,
+        "mandir": 0,
+        "modi": 1,
+        "not": 0
     },
     "left_keywords": [],
     "right_keywords": [
-        "india",
         "ram",
-        "congress",
-        "nitish",
-        "pm",
-        "delhi"
+        "day",
+        "mandir",
+        "modi"
     ]
 }
