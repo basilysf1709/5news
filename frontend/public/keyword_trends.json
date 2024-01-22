@@ -1,55 +1,57 @@
 {
     "left": {
-        "ram": 2,
-        "india": 2,
-        "temple": 1,
-        "ayodhya": 1,
-        "pm": 1,
-        "iran": 2,
-        "rs": 4
+        "ram": 4,
+        "ayodhya": 6,
+        "temple": 4,
+        "mandir": 0,
+        "pm": 2,
+        "modi": 1,
+        "pran": 0
     },
     "centre-left": {
-        "ram": 0,
-        "india": 3,
-        "temple": 1,
-        "ayodhya": 0,
-        "pm": 1,
-        "iran": 0,
-        "rs": 2
+        "ram": 5,
+        "ayodhya": 2,
+        "temple": 2,
+        "mandir": 2,
+        "pm": 3,
+        "modi": 2,
+        "pran": 1
     },
     "centre": {
-        "ram": 1,
-        "india": 1,
-        "temple": 0,
-        "ayodhya": 0,
+        "ram": 6,
+        "ayodhya": 2,
+        "temple": 2,
+        "mandir": 2,
         "pm": 0,
-        "iran": 1,
-        "rs": 6
+        "modi": 2,
+        "pran": 0
     },
     "centre-right": {
-        "ram": 11,
-        "india": 4,
-        "temple": 9,
-        "ayodhya": 6,
-        "pm": 5,
-        "iran": 2,
-        "rs": 11
+        "ram": 29,
+        "ayodhya": 15,
+        "temple": 11,
+        "mandir": 11,
+        "pm": 9,
+        "modi": 8,
+        "pran": 9
     },
     "right": {
-        "ram": 2,
-        "india": 5,
-        "temple": 0,
-        "ayodhya": 1,
-        "pm": 0,
-        "iran": 2,
-        "rs": 4
+        "ram": 8,
+        "ayodhya": 5,
+        "temple": 4,
+        "mandir": 2,
+        "pm": 4,
+        "modi": 4,
+        "pran": 3
     },
     "left_keywords": [],
     "right_keywords": [
         "ram",
-        "temple",
         "ayodhya",
+        "temple",
+        "mandir",
         "pm",
-        "rs"
+        "modi",
+        "pran"
     ]
 }
