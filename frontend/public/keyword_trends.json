@@ -1,57 +1,57 @@
 {
     "left": {
-        "ram": 4,
-        "ayodhya": 6,
-        "temple": 4,
+        "ram": 1,
+        "ayodhya": 2,
         "mandir": 0,
-        "pm": 2,
-        "modi": 1,
-        "pran": 0
+        "temple": 1,
+        "pran": 0,
+        "pratishtha": 0,
+        "pm": 1
     },
     "centre-left": {
-        "ram": 5,
-        "ayodhya": 2,
-        "temple": 2,
-        "mandir": 2,
-        "pm": 3,
-        "modi": 2,
-        "pran": 1
+        "ram": 3,
+        "ayodhya": 1,
+        "mandir": 0,
+        "temple": 0,
+        "pran": 0,
+        "pratishtha": 0,
+        "pm": 2
     },
     "centre": {
-        "ram": 6,
-        "ayodhya": 2,
-        "temple": 2,
+        "ram": 5,
+        "ayodhya": 0,
         "mandir": 2,
-        "pm": 0,
-        "modi": 2,
-        "pran": 0
+        "temple": 2,
+        "pran": 0,
+        "pratishtha": 0,
+        "pm": 1
     },
     "centre-right": {
-        "ram": 29,
-        "ayodhya": 15,
-        "temple": 11,
-        "mandir": 11,
-        "pm": 9,
-        "modi": 8,
-        "pran": 9
+        "ram": 27,
+        "ayodhya": 12,
+        "mandir": 12,
+        "temple": 7,
+        "pran": 12,
+        "pratishtha": 12,
+        "pm": 7
     },
     "right": {
-        "ram": 8,
-        "ayodhya": 5,
-        "temple": 4,
-        "mandir": 2,
-        "pm": 4,
-        "modi": 4,
-        "pran": 3
+        "ram": 4,
+        "ayodhya": 1,
+        "mandir": 0,
+        "temple": 2,
+        "pran": 1,
+        "pratishtha": 1,
+        "pm": 1
     },
     "left_keywords": [],
     "right_keywords": [
         "ram",
         "ayodhya",
-        "temple",
         "mandir",
-        "pm",
-        "modi",
-        "pran"
+        "temple",
+        "pran",
+        "pratishtha",
+        "pm"
     ]
 }
