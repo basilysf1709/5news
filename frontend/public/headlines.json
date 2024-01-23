@@ -3,6 +3,10 @@
         "political-spectrum": "centre-right",
         "headlines": [
             {
+                "headline": "Ayodhya Temple: Why Is Rama Lalla Idol Black?",
+                "url": "https://www.indiatimes.com/news/india/ayodhya-temple-why-is-rama-lalla-idol-black-625799.html"
+            },
+            {
                 "headline": "Ayodhya Ram Mandir: ISRO Shows Ram Temple From Space Using India's Own Satellite",
                 "url": "https://www.indiatimes.com/news/india/ayodhya-ram-mandir-isro-shows-ram-temple-from-space-using-indias-indigenous-satellites-625708.html"
             },
@@ -15,24 +19,20 @@
                 "url": "https://www.indiatimes.com/news/india/56-bhog-prasad-to-be-offered-to-ram-lalla-first-after-pran-pratishtha-625670.html"
             },
             {
-                "headline": "Nithyananda Says He Has Been Invited For Pran Pratishtha",
-                "url": "https://www.indiatimes.com/news/india/ayodhya-ram-mandir-fugitive-godman-nithyananda-says-he-has-been-invited-for-pran-pratishtha-625741.html"
+                "headline": "Banarasi Fabric & Vaishnav Symbols: This Is What Ram Lalla Is Wearing",
+                "url": "https://www.indiatimes.com/news/india/banarasi-fabric-vaishnav-symbols-ram-lallas-attire-ornaments-based-on-spiritual-texts-625866.html"
             },
             {
-                "headline": "Sculptor Arun Yogiraj Calls Himself 'Luckiest Person On Earth'",
-                "url": "https://www.indiatimes.com/news/india/ayodhya-ram-mandir-sculptor-arun-yogiraj-attends-pran-pratishtha-625806.html"
+                "headline": "Muslim Woman Who Gave Birth On Pran Pratishtha Day Names Son Ram Rahim",
+                "url": "https://www.indiatimes.com/news/india/muslim-woman-who-gave-birth-on-ayodhya-pran-pratishtha-names-son-ram-rahim-625862.html"
             },
             {
-                "headline": "Ayodhya Temple: Why Is Rama Lalla Idol Black?",
-                "url": "https://www.indiatimes.com/news/india/ayodhya-temple-why-is-rama-lalla-idol-black-625799.html"
+                "headline": "Cold Wave Continues Across North India",
+                "url": "https://www.indiatimes.com/news/india/cold-wave-across-north-india-delhis-minimum-temperature-7-degrees-625853.html"
             },
             {
-                "headline": "From LK Advani To Uma Bharti, The Top BJP Leaders Of Ram Janmabhoomi Movement",
-                "url": "https://www.indiatimes.com/news/india/from-lk-advani-to-uma-bharti-the-top-bjp-leaders-of-ram-janmabhoomi-movement-625797.html"
-            },
-            {
-                "headline": "Rahul Gandhi Stopped From Entering Temple",
-                "url": "https://www.indiatimes.com/news/india/what-crime-have-i-committed-rahul-gandhi-stopped-from-entering-temple-625792.html"
+                "headline": "IAS Divya Tanwar Cracked CSE Twice Without Coaching",
+                "url": "https://www.indiatimes.com/news/india/upsc-cse-success-22-yo-ias-divya-tanwar-cracked-cse-twice-by-the-age-of-22-without-coaching-625849.html"
             }
         ]
     },
@@ -40,28 +40,28 @@
         "political-spectrum": "left",
         "headlines": [
             {
-                "headline": "Strong Tremors Felt In Delhi After 7.2 Earthquake Hits China",
-                "url": "https://www.ndtv.com/india-news/earthquake-tremors-felt-in-delhi-nearby-areas-4913013#News_Trending"
+                "headline": "Bulldozer Action In Mumbai Where Clashes Took Place After Ram Temple Rally",
+                "url": "https://www.ndtv.com/india-news/bulldozer-action-in-mumbai-where-clashes-took-place-after-ram-temple-rally-4917266#News_Trending"
             },
             {
-                "headline": "Explained: From 1528 To 2024, A 500-Year Timeline Of Ayodhya Ram Temple",
-                "url": "https://www.ndtv.com/india-news/ayodhya-ram-temple-explained-from-1528-to-2024-a-500-year-timeline-of-ayodhya-ram-temple-4909652#News_Trending"
+                "headline": "Ram Lalla Idol That Lost Out. Rajasthan Sculptor's White Marble Version",
+                "url": "https://www.ndtv.com/india-news/ayodhya-ram-temple-ram-lalla-idol-that-lost-out-rajasthan-sculptors-white-marble-creation-4916840#News_Trending"
             },
             {
-                "headline": "US Army Veteran, Influencer Dies By Suicide Days After Daughter's Birthday",
-                "url": "https://www.ndtv.com/world-news/us-army-veteran-kills-herself-her-brother-died-by-suicide-when-she-was-14-4908303#News_Trending"
+                "headline": "What Happens To Old Ram Idol Which \"Appeared\" Inside Babri Masjid In 1949",
+                "url": "https://www.ndtv.com/india-news/ayodhya-ram-temple-ram-lalla-idol-explainer-in-a-makeshift-tent-since-1949-what-happens-to-old-ram-lalla-idol-now-4915720#News_Trending"
             },
             {
-                "headline": "7 Shot Dead In 2 Homes Near Chicago, \"Dangerous\" Suspect On The Run",
-                "url": "https://www.ndtv.com/world-news/chicago-shooting-multiple-killed-in-shooting-at-two-chicago-homes-dangerous-suspect-on-the-run-4914227#News_Trending"
+                "headline": "Scientists Capture Plants \"Talking\" To Each Other For The First Time",
+                "url": "https://www.ndtv.com/science/on-camera-scientists-capture-plants-talking-to-each-other-for-the-first-time-4916301#News_Trending"
             },
             {
-                "headline": "\"My First Decision After Returning From Ayodhya\": PM Announces New Scheme",
-                "url": "https://www.ndtv.com/india-news/back-from-ayodhya-pm-modi-plans-scheme-for-solar-panels-at-1-crore-houses-4911777#News_Trending"
+                "headline": "\"Go Enjoy Custody\": Supreme Court Raps Gujarat Cops For Public Flogging",
+                "url": "https://www.ndtv.com/india-news/supreme-court-raps-gujarat-cops-for-public-flogging-you-have-authority-to-tie-people-to-pole-beat-them-4917088#News_Trending"
             },
             {
-                "headline": "Donald Trump Can Win 2024 US Elections. Here's Why",
-                "url": "https://www.ndtv.com/world-news/donald-trump-can-win-2024-election-here-are-4-reasons-4913496#News_Trending"
+                "headline": "\"Your Letter Helped Me Deal With...\": PM Modi To President On Ayodhya Visit",
+                "url": "https://www.ndtv.com/india-news/prime-minister-narendra-modi-to-president-droupadi-murmu-sabka-saath-sabka-vikaas-inspired-by-ram-4917637#News_Trending"
             }
         ]
     },
@@ -69,20 +69,20 @@
         "political-spectrum": "right",
         "headlines": [
             {
-                "headline": "Ram Rajya to Viksit Bharat: PM Modi’s One Speech at Ayodhya’s Ram Temple Had 16 Themes",
-                "url": "https://www.news18.com/india/ram-rajya-to-viksit-bharat-pm-modis-one-speech-at-ayodhyas-ram-temple-had-16-themes-8750047.html"
+                "headline": "Bharat Ratna for Bihar’s Late CM Karpoori Thakur: All About the ‘Jan Nayak’ Who Mentored Lalu, Nitish Kumar",
+                "url": "https://www.news18.com/politics/bharat-ratna-for-bihars-late-cm-karpoori-thakur-the-jan-nayak-who-mentored-lalu-nitish-kumar-8752036.html"
             },
             {
-                "headline": "Chicago Cops Hunt Man Who Killed Eight People at Three Locations over Two Days",
-                "url": "https://www.news18.com/world/chicago-police-launch-hunt-man-who-killed-eight-people-at-three-locations-over-two-days-8750905.html"
+                "headline": "Ram Mandir Rally Attacked: Bulldozers Out, Illegal Properties of Mira Road Accused Demolished",
+                "url": "https://www.news18.com/india/mira-road-clash-bulldozers-out-illegal-properties-of-accused-involved-in-attack-on-ram-mandir-rally-demolished-8751796.html"
             },
             {
-                "headline": "Tremors In Delhi-NCR As 7.2 Magnitude Earthquake Hits Kyrgyzstan-Xinjiang Border",
-                "url": "https://www.news18.com/india/delhi-earthquake-tremors-kyrgyzstan-xinjiang-border-latest-news-8750803.html"
+                "headline": "From C Rajagopalachari To Former Bihar CM Karpoori Thakur, Here's A List of Recipients of Bharat Ratna",
+                "url": "https://www.news18.com/india/from-c-rajagopalachari-to-former-bihar-cm-karpoori-thakur-heres-a-list-of-recipients-of-bharat-ratna-8752043.html"
             },
             {
-                "headline": "Virat Kohli Pulls Out of First Two Tests Against England Citing Personal Reasons",
-                "url": "https://www.news18.com/cricket/virat-kohli-pulls-out-of-first-two-tests-against-england-citing-personal-reasons-8750039.html"
+                "headline": "Bengaluru Road Rage: Man Dragged by Cabbie on Bonnet, Dies After Being Run Over | Shocking Video",
+                "url": "https://www.news18.com/india/bengaluru-road-rage-man-dragged-by-cabbie-on-bonnet-dies-after-he-runs-him-over-cctv-video-8751601.html"
             }
         ]
     },
@@ -90,48 +90,48 @@
         "political-spectrum": "centre-left",
         "headlines": [
             {
-                "headline": "Maratha survey set to begin in Maharashtra, PM Modi to attend Parakram Diwas event at Red Fort",
-                "url": "https://indianexpress.com/article/political-pulse/maratha-survey-begin-maharashtra-pm-modi-attend-parakram-diwas-red-fort-9122797/"
+                "headline": "India wouldn’t be free without Bose, Gandhi’s freedom movement became a ‘non-event’: TN Guv",
+                "url": "https://indianexpress.com/article/cities/chennai/netaji-subhas-chandra-bose-r-n-ravi-tamil-nadu-india-freedom-9124084/"
             },
             {
-                "headline": "‘Suspend SoO agreements,’ ‘Hold Assam Rifles accountable’: Manipur MLAs after violence",
-                "url": "https://indianexpress.com/article/india/suspend-soo-agreements-hold-assam-rifles-accountable-manipur-mlas-issue-joint-statement-after-fresh-violence-9122746/"
+                "headline": "At Ayodhya, PM Modi draws a Ram Rekha",
+                "url": "https://indianexpress.com/article/opinion/columns/ayodhya-ram-mandir-rise-of-a-ram-temple-hindus-in-india-modi-moment-ram-mandir-movement-9122600/"
             },
             {
-                "headline": "Unforgettable day... promise of 5 centuries fulfilled, says Amit Shah",
-                "url": "https://indianexpress.com/article/india/ayodhya-ram-mandir-inauguration-unforgettable-day-promise-of-5-centuries-fulfilled-says-amit-shah-9122685/"
+                "headline": "From Calcutta to Berlin via Kabul: How Subhas Bose outwitted British to escape to Germany",
+                "url": "https://indianexpress.com/article/explained/explained-history/how-subhas-bose-outwitted-the-british-to-escape-to-germany-9124203/"
             },
             {
-                "headline": "Can your routine blood tests indicate a risk of heart attack?",
-                "url": "https://indianexpress.com/article/health-wellness/can-routine-blood-tests-indicate-risk-heart-attack-9122801/"
+                "headline": "As Modi meets Macron, the challenges that they will need to reflect on",
+                "url": "https://indianexpress.com/article/opinion/columns/narendra-modi-emmanuel-macron-meeting-india-france-challenges-9123612/"
             },
             {
-                "headline": "How food inflation in India has been de-globalised, what factors can drive prices now",
-                "url": "https://indianexpress.com/article/explained/explained-economics/food-inflation-india-factors-reasons-9121289/"
+                "headline": "Oscar Nominations 2024: The complete list",
+                "url": "https://indianexpress.com/article/entertainment/hollywood/oscar-nominations-2024-the-complete-list-9123315/"
             },
             {
-                "headline": "13 arrested after vehicles with saffron flags ‘attacked’ in Thane’s Mira Road",
-                "url": "https://indianexpress.com/article/cities/mumbai/nine-arrested-vehicles-saffron-flags-attacked-thane-mira-road-9121890/"
+                "headline": "How a Sikh traveller in 1930s recorded Ayodhya and tales of Ram",
+                "url": "https://indianexpress.com/article/cities/chandigarh/sikh-traveller-1930s-recorded-ayodhya-tales-ram-sikh-gurus-9123508/"
             },
             {
-                "headline": "Express report on garbage choking UT's choes: NGT issues notice to MC commissioner",
-                "url": "https://indianexpress.com/article/cities/chandigarh/express-report-garbage-choes-ngt-mc-commissioner-9122807/"
+                "headline": "Delhi election official's internal note sets April 16 as tentative 'LS poll date', he clarifies it as 'reference'",
+                "url": "https://indianexpress.com/article/india/delhi-chief-electoral-officer-lok-sabha-polls-tentative-date-april-9124181/"
             },
             {
-                "headline": "Delhi HC refuses to interfere with Lokpal proceedings against Shibu Soren",
-                "url": "https://indianexpress.com/article/india/delhi-hc-refuses-to-interfere-with-lokpal-proceedings-against-shibu-soren-9122741/"
+                "headline": "As Sharmila launches Cong campaign in Andhra with state tour, Jagan takes first swipe at sister",
+                "url": "https://indianexpress.com/article/political-pulse/sharmila-launches-cong-campaign-andhra-9123434/"
             },
             {
-                "headline": "No relook at duty remission scheme needed due to US, EU action: Official",
-                "url": "https://indianexpress.com/article/business/economy/no-relook-at-duty-remission-scheme-needed-due-to-us-eu-action-official-9122713/"
+                "headline": "OnePlus 12 review: On point, as phones need to be",
+                "url": "https://indianexpress.com/article/technology/tech-reviews/oneplus-12-review-hasselblad-camera-price-9124318/"
             },
             {
-                "headline": "Devdutt Pattanaik writes: The many Rams outside Ayodhya we haven't heard of",
-                "url": "https://indianexpress.com/article/opinion/columns/devdutt-pattanaik-ram-beyond-the-hindi-belt-9121753/"
+                "headline": "Significance of Temple, Pradhan Mantri Suryodaya Yojana and Srimanta Sankardeva’s philosophy",
+                "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-23rd-january-2024-significance-of-temple-pradhan-mantri-suryodaya-yojana-and-srimanta-sankardevas-philosophy-9124314/"
             },
             {
-                "headline": "Teacher detained for teen’s rape, murder in Rajasthan: Police",
-                "url": "https://indianexpress.com/article/cities/jaipur/schoolgirl-raped-killed-by-teacher-in-rajasthan-9122260/"
+                "headline": "‘Our culture enables matrimonial fraud’: Filmmaker Tanuja Chandra",
+                "url": "https://indianexpress.com/article/lifestyle/life-style/tanuja-chandra-wedding-con-matrimonial-fraud-series-female-characters-indian-cinema-9093228/"
             },
             {
                 "headline": "Symbiosis Literary Festival 2023 Triumphs in Cultivating Intellectual Dialogue and Diverse Perspectives",
@@ -155,40 +155,40 @@
         "political-spectrum": "centre-right",
         "headlines": [
             {
-                "headline": "Ayodhya Ram Mandir welcomes devotees day after grand ‘Pran Pratishtha’",
-                "url": "https://www.indiatoday.in/india/story/ram-mandir-latest-news-ayodhya-temple-opens-devotees-visit-timings-pran-pratishtha-2492318-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+                "headline": "Karpoori Thakur, former Bihar Chief Minister, conferred Bharat Ratna posthumously",
+                "url": "https://www.indiatoday.in/india/story/former-bihar-chief-minister-karpoori-thakur-to-be-awarded-bharat-ratna-posthumously-2492709-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
             },
             {
-                "headline": "Globalisation being 'weaponised' by dominant players: S Jaishankar",
-                "url": "https://www.indiatoday.in/india/story/external-affairs-minister-s-jaishankar-globalisation-weaponized-global-south-2492306-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+                "headline": "Bulldozer action on illegal shops in Mira Road near Mumbai days after clash",
+                "url": "https://www.indiatoday.in/cities/mumbai/story/mira-road-clashes-bulldozer-action-illegal-shops-bhayandar-vasai-virar-thane-mumbai-2492707-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
             },
             {
-                "headline": "8 shot dead at 2 locations near Chicago, manhunt launched for accused",
-                "url": "https://www.indiatoday.in/world/story/chicago-shooting-seven-people-found-shot-to-death-at-two-locations-2492307-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+                "headline": "Maldives confirms docking of research vessel from 'friendly country' China",
+                "url": "https://www.indiatoday.in/world/story/maldives-chinese-spy-ship-xiang-yang-hong-3-male-2492690-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
             },
             {
-                "headline": "Man playing Hanuman's role dies of heart attack during Ramlila in Haryana",
-                "url": "https://www.indiatoday.in/india/story/ram-mandir-consecration-haryana-man-dies-of-heart-attack-while-playing-hanuman-in-ramlila-2492260-2024-01-22?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+                "headline": "Ram Lalla idol that did not make it to sanctum sanctorum of Ayodhya temple",
+                "url": "https://www.indiatoday.in/india/story/ram-lalla-white-marble-idol-ram-mandir-ayodhya-2492696-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
             },
             {
-                "headline": "US, UK launch fresh strikes against Houthi rebels in Yemen in ‘self-defence’",
-                "url": "https://www.indiatoday.in/world/story/yemen-houthi-rebel-targets-fresh-airstrikes-missiles-us-british-forces-red-sea-shipping-trade-crisis-2492311-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+                "headline": "BCCI Awards 2024: Full list of award winners",
+                "url": "https://www.indiatoday.in/sports/cricket/story/bcci-awards-2024-full-list-award-winners-shubman-gill-ravi-shastri-mandhana-ashwin-2492703-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
             },
             {
-                "headline": "Flights delayed amid dense fog, coldwave conditions in Delhi, yellow alert issued",
-                "url": "https://www.indiatoday.in/india/story/delhi-dense-fog-weather-conditions-yellow-alert-imd-forecast-punjab-up-haryana-rajasthan-weather-2492310-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+                "headline": "Rahul Gandhi's 'intimidation' jab as Himanta Sarma threatens case over yatra clash",
+                "url": "https://www.indiatoday.in/india/story/himanta-sarma-asks-cops-to-file-case-against-rahul-gandhi-for-provoking-crowd-slams-naxalite-tactics-2492471-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
             },
             {
-                "headline": "Earthquake of magnitude 7.2 hits China's Xinjiang, tremors felt in Delhi-NCR",
-                "url": "https://www.indiatoday.in/india/story/earthquake-tremors-delhi-ncr-magnitude-ncs-pakistan-nepal-afghanistan-uttarakhand-north-india-2492287-2024-01-22?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
+                "headline": "Such comments won't matter: Rahul Gandhi on Adhir Ranjan's jab at Mamata",
+                "url": "https://www.indiatoday.in/india/story/rahul-gandhi-on-adhir-ranjans-jab-at-mamata-banerjee-amid-seat-sharing-row-such-comments-wont-matter-2492518-2024-01-23?utm_source=directhp&utm_medium=clicktopstories&utm_campaign=hptopstories"
             },
             {
-                "headline": "Top 7 animated films based on Ramayana",
-                "url": "https://www.indiatoday.in/visualstories/entertainment/top-7-animated-films-based-on-ramayana-93026-22-01-2024"
+                "headline": "Mush overload ft Athiya Shetty and KL Rahul",
+                "url": "https://www.indiatoday.in/visualstories/entertainment/mush-overload-ft-athiya-shetty-and-kl-rahul-93154-23-01-2024"
             },
             {
-                "headline": "BPL 2024: Babar Azam leaves for Bangladesh",
-                "url": "https://www.indiatoday.in/visualstories/sports/bpl-2024-babar-azam-leaves-for-bangladesh-93015-22-01-2024"
+                "headline": "WWE Royal Rumble 2024: Predicting surprise returns",
+                "url": "https://www.indiatoday.in/visualstories/sports/wwe-royal-rumble-2024-predicting-surprise-returns-93292-23-01-2024"
             },
             {
                 "headline": "PM Modi in Lakshadweep. All pics",
@@ -207,40 +207,40 @@
                 "url": "https://www.indiatoday.in/visualstories/wellness/how-to-maintain-oral-hygiene-92065-17-01-2024"
             },
             {
-                "headline": "Fourth week of January will be auspicious for these signs",
-                "url": "https://www.indiatoday.in/visualstories/horoscope/fourth-week-of-january-will-be-auspicious-for-these-signs-92954-22-01-2024"
+                "headline": "These door prevents Goddess Lakshmi from entering your home",
+                "url": "https://www.indiatoday.in/visualstories/horoscope/these-door-prevents-goddess-lakshmi-from-entering-your-home-93155-23-01-2024"
             },
             {
-                "headline": "7 Fun Brain Exercises to Boost Your Study Breaks",
-                "url": "https://www.indiatoday.in/visualstories/education/7-fun-brain-exercises-to-boost-your-study-breaks-93019-22-01-2024"
+                "headline": "5 Perfect Career Options For Extoverts",
+                "url": "https://www.indiatoday.in/visualstories/education/5-perfect-career-options-for-extoverts-93178-23-01-2024"
             },
             {
-                "headline": "Hotness alert: Samantha Ruth Prabhu",
-                "url": "https://www.indiatoday.in/visualstories/entertainment/hotness-alert-samantha-ruth-prabhu-92962-22-01-2024"
+                "headline": "Nayanthara's motherhood journey",
+                "url": "https://www.indiatoday.in/visualstories/entertainment/nayanthara-motherhood-journey-2-93102-23-01-2024"
             },
             {
-                "headline": "Fiery Shamar Joseph meets Steve Smith",
-                "url": "https://www.indiatoday.in/visualstories/sports/fiery-shamar-joseph-meets-steve-smith-92971-22-01-2024"
+                "headline": "Rohit Sharma leads ICC Men's ODI Team of the Year",
+                "url": "https://www.indiatoday.in/visualstories/sports/rohit-sharma-leads-icc-mens-odi-team-of-the-year-93196-23-01-2024"
             },
             {
-                "headline": "Watch: PM Modi showers rose petals on Ram Mandir construction workers",
-                "url": "https://www.indiatoday.in/india/video/watch-pm-modi-showers-rose-petals-on-ram-mandir-construction-workers-2492078-2024-01-22"
+                "headline": "Karpoori Thakur, former Bihar Chief Minister, to be awarded Bharat Ratna posthumously",
+                "url": "https://www.indiatoday.in/india/video/karpoori-thakur-former-bihar-chief-minister-to-be-awarded-bharat-ratna-posthumously-2492736-2024-01-23"
             },
             {
-                "headline": "Devdutt Pattanaik on concept of Ram Rajya, Dharma in discussion with Rajdeep Sardesai",
-                "url": "https://www.indiatoday.in/india/video/exclusive-devdutt-pattanaik-on-concept-of-ram-rajya-dharma-in-discussion-with-rajdeep-sardesai-2492271-2024-01-22"
+                "headline": "'Will be etched in memories for years to come': PM Modi shares Ram temple video",
+                "url": "https://www.indiatoday.in/india/video/pm-modi-shares-glimpses-inauguration-of-ram-mandir-says-etched-memories-years-come-2492360-2024-01-23"
             },
             {
-                "headline": "PM Modi lights diyas at his residence after Ram Mandir ‘Pran Pratishtha’",
-                "url": "https://www.indiatoday.in/india/video/pm-modi-lights-diyas-at-his-residence-after-ram-mandir-pran-pratishtha-2492279-2024-01-22"
+                "headline": "Watch: Massive rush at Ayodhya temple day after Ram Lalla's 'Pran Pratishtha'",
+                "url": "https://www.indiatoday.in/india/video/watch-massive-rush-at-ayodhya-temple-day-after-ram-lallas-pran-pratishtha-2492333-2024-01-23"
             },
             {
-                "headline": "Video: Rajinikanth feels fortunate to be a part of Ram Temple inauguration",
-                "url": "https://www.indiatoday.in/movies/celebrities/video/video-rajinikanth-feels-fortunate-to-be-a-part-of-ram-temple-inauguration-2492191-2024-01-22"
+                "headline": "Watch: Wife of Ram Lalla sculptor Arun Yogiraj decodes making of idol",
+                "url": "https://www.indiatoday.in/india/video/watch-wife-of-ram-lalla-sculptor-arun-yogiraj-decodes-making-of-idol-2492491-2024-01-23"
             },
             {
-                "headline": "Ram Mandir Pran Pratishtha: Entire India’s dream fulfilled, says Sachin Tendulkar",
-                "url": "https://www.indiatoday.in/sports/cricket/video/sachin-tendulkar-interview-ram-mandir-pran-pratishtha-ceremony-ayodhya-2492066-2024-01-22"
+                "headline": "On camera: UP police constable smashes e-rickshaw windshield after rear-end collision",
+                "url": "https://www.indiatoday.in/india/video/on-camera-up-police-constable-smashes-e-rickshaw-windshield-after-rear-end-collision-2492544-2024-01-23"
             }
         ]
     },
@@ -248,80 +248,80 @@
         "political-spectrum": "centre-right",
         "headlines": [
             {
-                "headline": "Tremors felt in Delhi-NCR after 7.2 magnitude quake hits China’s Xinjiang region",
-                "url": "https://www.financialexpress.com/india-news/tremors-felt-in-delhi-ncr-after-7-2-magnitude-quake-hits-chinas-xinjiang-region/3372197/"
+                "headline": "Tamil Nadu CM Stalin to inaugurate Kalaignar Centenary Jallikattu Arena  tomorrow – Know key details here",
+                "url": "https://www.financialexpress.com/india-news/tamil-nadu-cm-stalin-to-inaugurate-kalaignar-centenary-jallikattu-arena-tomorrow-know-key-details-here-bkg/3373134/"
             },
             {
-                "headline": "Who is Arun Yogiraj? Meet ace sculptor behind the stunning idol of Ram Lalla",
-                "url": "https://www.financialexpress.com/india-news/who-is-arun-yogiraj-meet-ace-sculptor-behind-the-stunning-idol-of-ram-lalla-bkg/3372041/"
+                "headline": "Bharat Ratna for Jan Nayak: President Murmu confers highest civilian award to ex-Bihar CM Karpoori Thakur",
+                "url": "https://www.financialexpress.com/india-news/bharat-ratna-for-jan-nayak-president-murmu-confers-highest-civilian-award-to-ex-bihar-cm-karpoori-thakur-bkg/3373111/"
             },
             {
-                "headline": "‘No more gun shots in Ayodhya’: Yogi Adityanath after Ram Lalla’s ‘Pran Pratishtha’ ceremony",
-                "url": "https://www.financialexpress.com/india-news/no-more-gun-shots-in-ayodhya-yogi-adityanath-after-ram-lallas-pran-pratishtha-ceremony/3371800/"
+                "headline": "Greater Noida: Ravan’s ancestral village welcomes Lord Ram, installs idol at ancient Shiva temple",
+                "url": "https://www.financialexpress.com/india-news/greater-noida-ravans-ancestral-village-welcomes-lord-ram-installs-idol-at-ancient-shiva-temple/3373013/"
             },
             {
-                "headline": "Ambanis watch Pran Pratishtha live streaming, IAF choppers shower rose petals – Top 5 moments from Ram Mandir inauguration",
-                "url": "https://www.financialexpress.com/india-news/ambanis-watch-pran-pratishtha-live-streaming-iaf-choppers-shower-rose-petals-top-5-moments-from-ram-mandir-inauguration-bkg/3371781/"
+                "headline": "Lok Sabha Elections 2024: With Ram Mandir inauguration, Modi riddles INDIA bloc with a new dilemma",
+                "url": "https://www.financialexpress.com/india-news/lok-sabha-elections-2024-with-ram-mandir-inauguration-modi-riddles-india-bloc-with-a-new-dilemma/3372950/"
             },
             {
-                "headline": "‘Ram will no longer live in a tent, beginning of new era’: PM Modi’s top quotes in Ayodhya",
-                "url": "https://www.financialexpress.com/india-news/ram-will-no-longer-live-in-a-tent-beginning-of-new-era-pm-modi-top-quotes-ram-temple-ayodhya/3371779/"
+                "headline": "Congress vs TMC: Adhir Ranjan says ‘won’t contest election with Banerjee’, Rahul Gandhi snubs comment",
+                "url": "https://www.financialexpress.com/india-news/adhir-ranjan-chowdhury-wont-contest-lok-sabha-election-with-mamata-banerjee-rahul-gandhi-snubs/3372924/"
             },
             {
-                "headline": "SC rebukes Tamil Nadu govt over ban on live telecast of Ram Lalla’s ‘Pran Pratishtha’ ceremony",
-                "url": "https://www.financialexpress.com/india-news/sc-rebukes-tamil-nadu-govt-over-ban-on-live-telecast-of-ram-lallas-pran-pratishtha-ceremony/3371703/"
+                "headline": "Bharat Jodo Nyay Yatra | Assam CM’s tactics helping us, says Rahul Gandhi, after Himanta warns of criminal case",
+                "url": "https://www.financialexpress.com/india-news/bharat-jodo-nyay-yatra-assam-cms-tactics-helping-us-says-rahul-gandhi-after-himanta-warns-of-criminal-case/3372820/"
             },
             {
-                "headline": "Ram Temple in Ayodhya marks beginning of new Kaal Chakra, symbol of our patience and resilience: PM Modi",
-                "url": "https://www.financialexpress.com/india-news/ram-mandir-ayodhya-narendra-modi-speech-yogi-adityanath-mohan-bhagwat/3371641/"
+                "headline": "‘First decision after returning from Ayodhya’: PM Modi announces solar roof-top scheme",
+                "url": "https://www.financialexpress.com/india-news/first-decision-after-returning-from-ayodhya-pm-modi-announces-solar-roof-top-scheme/3372772/"
             },
             {
-                "headline": "JD(U) spokesperson Sunil Singh resigns from party, says Lord Ram will guide him",
-                "url": "https://www.financialexpress.com/india-news/jdu-spokesperson-sunil-singh-resigns-from-party-says-lord-ram-will-guide-him/3371620/"
+                "headline": "Netaji Subhas Chandra Bose Jayanti 2024: PM Modi to lead ‘Parakram Diwas’, ‘Bharat Parv’ celebrations at Red Fort",
+                "url": "https://www.financialexpress.com/india-news/netaji-subhas-chandra-bose-jayanti-2024-pm-modi-to-lead-parakram-diwas-bharat-parv-celebrations-at-red-fort-bkg/3372727/"
             },
             {
-                "headline": "Mumbai: Vehicles bearing Lord Ram flag attacked in Mira Road, 13 arrested",
-                "url": "https://www.financialexpress.com/india-news/mumbai-vehicles-bearing-lord-ram-flag-attacked-in-mira-road-5-arrested/3371417/"
+                "headline": "Ayodhya Ram Mandir now open for general public! Check aarti, darshan timings; how to book passes",
+                "url": "https://www.financialexpress.com/india-news/ayodhya-ram-mandir-now-open-for-general-public-check-aarti-darshan-timings-how-to-book-passes-bkg/3372619/"
             },
             {
-                "headline": "In PICS – Ram Lalla’s first darshan after Pran Pratishtha at Ayodhya Ram Mandir",
-                "url": "https://www.financialexpress.com/india-news/ram-lalla-first-darshan-ayodhya-ram-mandir-pran-pratishtha-narendra-modi-bkg/3371464/"
+                "headline": "Maratha quota: Mega survey to assess Maratha community backwardness to begin today",
+                "url": "https://www.financialexpress.com/india-news/mega-survey-1-25-lakh-enumerators-to-assess-maratha-community-backwardness-to-begin-maharashtra-eknath-shinde/3372663/"
             },
             {
-                "headline": "What’s inside mahaprasad of Shri Ram Pran Pratishtha ceremony? Special laddu to Saryu jal, what guests will receive in Ayodhya",
-                "url": "https://www.financialexpress.com/india-news/whats-inside-mahaprasad-of-shri-ram-pran-pratishtha-ceremony-special-laddu-to-saryu-jal-what-guests-will-receive-in-ayodhya-bkg/3371379/"
+                "headline": "Mira Road incident: Mumbai Police arrests man ‘seen provoking people’ in viral video",
+                "url": "https://www.financialexpress.com/india-news/mira-road-incident-mumbai-police-arrests-man-seen-provoking-people-in-viral-video/3372654/"
             },
             {
-                "headline": "‘Will PM decide who can visit temple?’: Rahul Gandhi slams Modi after being denied entry into local Assam temple",
-                "url": "https://www.financialexpress.com/india-news/will-pm-decide-who-can-visit-temple-rahul-gandhi-slams-modi-after-being-denied-entry-into-local-assam-temple/3371309/"
+                "headline": "Bharat Jodo Nyay Yatra: Congress workers clash with Guwahati cops after Rahul Gandhi denied entry | Video",
+                "url": "https://www.financialexpress.com/india-news/bharat-jodo-nyay-yatra-congress-workers-clash-with-cops-guwahati-border-rahul-gandhi-stopped-video/3372582/"
             },
             {
-                "headline": "Ayodhya Ram Mandir WhatsApp Status, Wishes, Images, Quotes: Check out these beautiful messages to send to your loved ones on this auspicious Pran Pratishtha day of Ram Lalla",
-                "url": "https://www.financialexpress.com/india-news/ayodhya-ram-mandir-whatsapp-status-images-wishes-quotes-ram-sita-ram-lalla-ram-mandir-wishes-bkg/3371291/"
+                "headline": "Bharat Jodo Nyay Yatra | ‘Meghalaya, Manipur, and Arunachal under attack by BJP-RSS’, says Rahul Gandhi",
+                "url": "https://www.financialexpress.com/india-news/bharat-jodo-nyay-yatra-meghalaya-manipur-and-arunachal-under-attack-by-bjp-rss-says-rahul-gandhi/3372489/"
             },
             {
-                "headline": "Ram temple opening: Auspicious ‘muhurta’ to last only 84 seconds",
-                "url": "https://www.financialexpress.com/india-news/ram-temple-inauguration-abhijit-muhurta-to-last-only-84-seconds-pm-modi-ayodhya/3371160/"
+                "headline": "New mosque construction in Ayodhya to begin in May, Muslim group says",
+                "url": "https://www.financialexpress.com/india-news/new-mosque-construction-in-ayodhya-to-begin-in-may-muslim-group-babri-masjid-dispute/3372462/"
             },
             {
-                "headline": "Ram Mandir inauguration: Which states have declared holiday and dry day today| Check updated details here",
-                "url": "https://www.financialexpress.com/india-news/ram-mandir-inauguration-which-states-have-declared-holiday-and-dry-day-today-check-updated-details-here/3371127/"
+                "headline": "Do you know significance of Ram Lalla’s shringaar? Know key details and what happens to old idol",
+                "url": "https://www.financialexpress.com/india-news/do-you-know-significance-of-ram-lallas-shringaar-know-key-details-and-what-happens-to-old-idol-bkg/3372395/"
             },
             {
-                "headline": "Ayodhya Ram Mandir Pran Pratishtha Live streaming on January 22 – When and where to watch live telecast?",
-                "url": "https://www.financialexpress.com/india-news/ayodhya-ram-mandir-pran-pratishtha-on-january-22-when-and-where-to-watch-live-telecast-bkg/3371172/"
+                "headline": "Surat-based diamond trader gifts ‘mukut’ worth Rs 11 crore for Ram Lalla’s idol",
+                "url": "https://www.financialexpress.com/india-news/surat-based-diamond-trader-gifts-mukut-worth-rs-11-crore-for-ram-lallas-idol/3372417/"
             },
             {
-                "headline": "Ram Mandir inauguration: PM Modi to arrive in Ayodhya at 10.45 AM – here’s his full itinerary",
-                "url": "https://www.financialexpress.com/india-news/ram-temple-inauguration-pran-pratishtha-narendra-modi-ayodhya-full-schedule-today/3371132/"
+                "headline": "MP: Cheetah gives birth to three cubs at Kuno National Park | Watch VIDEO",
+                "url": "https://www.financialexpress.com/india-news/mp-namibian-cheetah-gives-birth-to-three-cubs-at-kuno-national-park/3372298/"
             },
             {
-                "headline": "Bilkis Bano case: All 11 convicts surrender at Godhra sub-jail following SC order",
-                "url": "https://www.financialexpress.com/india-news/bilkis-bano-case-all-11-convicts-surrender-at-godhra-sub-jail-following-sc-order/3371051/"
+                "headline": "Ayodhya: Massive rush of devotees at Ram Temple day after pran pratishtha | Video",
+                "url": "https://www.financialexpress.com/india-news/massive-rush-of-devotees-at-ayodhya-ram-temple-day-after-pran-pratishtha-video/3372306/"
             },
             {
-                "headline": "Breaking News on January 22: Saif Ali Khan undergoes tricep surgery, thanks well-wishers for their concern",
-                "url": "https://www.financialexpress.com/india-news/breaking-news-live-and-top-trending-headlines-on-january-22-bkg/3370833/"
+                "headline": "Breaking News on January 23: Barbie, Oppenheimer win Oscar nominations for best picture",
+                "url": "https://www.financialexpress.com/india-news/breaking-news-live-and-top-trending-headlines-on-january-23-bkg/3372111/"
             }
         ]
     },
@@ -329,24 +329,24 @@
         "political-spectrum": "right",
         "headlines": [
             {
-                "headline": "Ram Lalla 'Pran Pratishtha': 10 Things That Stood Out",
-                "url": "https://www.timesnownews.com/india/ram-lalla-pran-pratishtha-10-things-that-stood-out-at-grand-ayodhya-event-article-107064521"
+                "headline": "Who Was Karpoori Thakur? Former Bihar CM Gets Bharat Ratna Posthumously",
+                "url": "https://www.timesnownews.com/india/who-was-karpoori-thakur-former-bihar-cm-gets-bharat-ratna-posthumously-article-107090262"
             },
             {
-                "headline": "Diamond Trader From Surat Donates Crown Worth Rs 11 Crore For Ram Lalla Moorti",
-                "url": "https://www.timesnownews.com/india/rs-11-crore-diamond-encrusted-crown-for-ram-lalla-surat-merchant-w-article-107062391"
+                "headline": "PM Modi Unveils Bharat Parv 2024 On Occasion of Parakram Diwas At Red Fort | VIDEO",
+                "url": "https://www.timesnownews.com/india/pm-modi-unveils-bharat-parv-2023-on-occasion-of-parakram-diwas-at-red-fort-video-article-107090171"
             },
             {
-                "headline": "Rift In Opposition? Mamata Banerjee Train Guns On CPI(M): 'Left Trying To Control INDIA Bloc'",
-                "url": "https://www.timesnownews.com/india/rift-in-opposition-left-trying-to-control-india-bloc-mamata-banerjee-train-guns-on-cpim-article-107062076"
+                "headline": "To End His 11-Day Fast, PM Modi Made A Change In Plan | Seer Who Offered 'Charnamrit' Reveals",
+                "url": "https://www.timesnownews.com/india/to-end-his-11-day-fast-pm-modi-made-a-change-in-plan-seer-who-offered-charnamrit-reveals-article-107089454"
             },
             {
-                "headline": "Who Is Vikramaditya Singh, Congress minister who defied party orders to attend Ram Temple event",
-                "url": "https://www.timesnownews.com/india/who-is-vikramaditya-singh-congress-minister-who-defied-party-orders-to-attend-ram-temple-event-article-107061899"
+                "headline": "Lok Sabha Polls On April 16? Delhi's CEO Office Issues Clarification On Tentative Date",
+                "url": "https://www.timesnownews.com/india/lok-sabha-polls-on-april-16-delhis-ceo-office-issues-clarification-on-tentative-date-article-107089328"
             },
             {
-                "headline": "Earthquake Tremors Felt In New Delhi, Gurgaon, Noida, Videos Emerge | Watch",
-                "url": "https://www.timesnownews.com/india/earthquake-in-china-tremors-felt-in-new-delhi-gurgaon-noida-videos-emerge-watch-article-107061999"
+                "headline": "'The Great Jan Nayak': PM Modi Delighted As Karpoori Thakur Gets Bharat Ratna",
+                "url": "https://www.timesnownews.com/india/breaking-news-pm-modi-delighted-as-karpoori-thakur-gets-bharat-r-article-107089909"
             }
         ]
     },
@@ -354,24 +354,24 @@
         "political-spectrum": "centre",
         "headlines": [
             {
-                "headline": "Opinion Sony puts large advertisers in tough spot as it terminates merger deal",
-                "url": "https://www.business-standard.com/companies/news/sony-puts-large-advertisers-in-tough-spot-as-it-terminates-merger-deal-124012300066_1.html"
+                "headline": "Serum Institute joins CEPI network to make vaccines for disease outbreaks",
+                "url": "https://www.business-standard.com/companies/news/sii-joins-cepi-network-to-boost-production-of-affordable-outbreak-vaccines-124012300590_1.html"
             },
             {
-                "headline": "Ram Temple inauguration: This is India's time as new era dawns, says PM",
-                "url": "https://www.business-standard.com/india-news/ram-temple-consecration-marks-the-dawn-of-new-era-says-pm-narendra-modi-124012200886_1.html"
+                "headline": "Airtel prepays Rs 8,325 cr to clear 2015 spectrum acquisition liabilities",
+                "url": "https://www.business-standard.com/companies/news/airtel-prepays-rs-8-325-cr-to-clear-2015-spectrum-acquisition-liabilities-124012300708_1.html"
             },
             {
-                "headline": "From sweets to diyas, Ram Mandir inauguration rings in 'second Diwali'",
-                "url": "https://www.business-standard.com/india-news/from-sweets-to-diyas-ram-mandir-inauguration-rings-in-second-diwali-124012201008_1.html"
+                "headline": "Former Bihar CM Karpoori Thakur to be awarded Bharat Ratna posthumously",
+                "url": "https://www.business-standard.com/india-news/former-bihar-cm-karpoori-thakur-to-be-awarded-bharat-ratna-posthumously-124012300891_1.html"
             },
             {
-                "headline": "Sebi may allow AIFs to 'exclude' investors from certain investments",
-                "url": "https://www.business-standard.com/finance/investment/sebi-plans-to-mandate-aifs-exclude-investors-from-certain-investments-124012200713_1.html"
+                "headline": "Axis Bank Q3 result: Net profit up 3.7% to Rs 6,071 cr, NII at Rs 12,532 cr",
+                "url": "https://www.business-standard.com/companies/results/axis-bank-q3-result-net-profit-up-3-7-to-rs-6-071-cr-nii-at-rs-12-532-cr-124012300548_1.html"
             },
             {
-                "headline": "Striking balance: CCI may tailor penalties for global corporations",
-                "url": "https://www.business-standard.com/industry/news/striking-balance-cci-may-tailor-penalties-for-global-corporations-124012200856_1.html"
+                "headline": "Byju's to slash $22 bn valuation by 90% to raise fresh funds",
+                "url": "https://www.business-standard.com/companies/start-ups/edtech-major-byju-s-to-slash-22-bn-valuation-by-90-to-raise-fresh-funds-124012300473_1.html"
             }
         ]
     },
@@ -379,28 +379,28 @@
         "political-spectrum": "centre",
         "headlines": [
             {
-                "headline": "India denies nod to ‘1st-ever weekly insulin’ for diabetics, seeks more info from maker Novo Nordisk",
-                "url": "https://theprint.in/health/india-denies-nod-to-1st-ever-weekly-insulin-for-diabetics-seeks-more-info-from-maker-novo-nordisk/1934222/"
+                "headline": "Day after Ram Lalla consecration, chaos in Ayodhya: Devotees crash temple barricades, Yogi steps in",
+                "url": "https://theprint.in/india/day-after-ram-lalla-consecration-chaos-in-ayodhya-devotees-crash-temple-barricades-yogi-steps-in/1935870/"
             },
             {
-                "headline": "French journalist issued notice for withdrawal of OCI card over ‘malicious’ reporting, visa violations",
-                "url": "https://theprint.in/india/french-journalist-issued-notice-for-withdrawal-of-oci-card-over-malicious-reporting-visa-violations/1934642/"
+                "headline": "‘Instant publicity doesn’t solve problems’: Shah cautions BJP leaders on publicly targeting civil servants",
+                "url": "https://theprint.in/politics/instant-publicity-doesnt-solve-problems-shah-cautions-bjp-leaders-on-publicly-targeting-civil-servants/1935793/"
             },
             {
-                "headline": "How K Parasaran, ‘pitamah of Indian bar’, sealed Ram temple win in SC: Like ‘a maharishi performing yajna’",
-                "url": "https://theprint.in/judiciary/how-k-parasaran-pitamah-of-indian-bar-sealed-ram-temple-win-in-sc-like-a-maharishi-performing-yajna/1934492/"
+                "headline": "Time to end ‘purani dushmaniyan’, says top imam facing flak for attending ‘pran pratishtha’",
+                "url": "https://theprint.in/india/time-to-end-purani-dushmaniyan-says-top-imam-facing-flak-for-attending-pran-pratishtha/1935576/"
             },
             {
-                "headline": "‘Mecca for Hindus’: How the world & Pakistan reacted to Ram Mandir inauguration ceremony",
-                "url": "https://theprint.in/world/mecca-for-hindus-how-the-world-pakistan-reacted-to-ram-mandir-inauguration-ceremony/1934490/"
+                "headline": "As sister Sharmila accuses him of becoming BJP’s puppet, ‘anna’ Jagan fires off 1st public retort",
+                "url": "https://theprint.in/politics/as-sister-sharmila-accuses-him-of-becoming-bjps-puppet-anna-jagan-fires-off-1st-public-retort/1935800/"
             },
             {
-                "headline": "From ‘Hey Ram, hey Ram’ to ‘Payo ji maine’, here are 10 Ram bhajans that have made a comeback",
-                "url": "https://theprint.in/india/from-hey-ram-hey-ram-to-payo-ji-maine-here-are-10-ram-bhajans-that-have-made-a-comeback/1934499/"
+                "headline": "Dalit ‘made to drink urine’: TN university anti-ragging panel recommends 2 students be barred from exams",
+                "url": "https://theprint.in/india/dalit-made-to-drink-urine-tn-university-anti-ragging-panel-recommends-2-students-be-barred-from-exams/1935586/"
             },
             {
-                "headline": "No normalisation of ties with Israel unless there’s path to Palestine state — Saudi foreign minister",
-                "url": "https://theprint.in/world/no-normalisation-of-ties-with-israel-unless-theres-path-to-palestine-state-saudi-foreign-minister/1934316/"
+                "headline": "Bulldozer at Mira Rd locality where clashes broke out ahead of Ayodhya consecration. ‘Routine drive’",
+                "url": "https://theprint.in/india/bulldozer-at-mira-rd-locality-where-clashes-broke-out-ahead-of-ayodhya-consecration-routine-drive/1935894/"
             }
         ]
     }
