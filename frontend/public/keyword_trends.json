@@ -1,57 +1,55 @@
 {
     "left": {
-        "ram": 3,
-        "ayodhya": 1,
-        "bharat": 0,
+        "india": 0,
+        "bjp": 1,
         "modi": 1,
-        "temple": 1,
-        "lalla": 1,
-        "pm": 1
+        "advani": 1,
+        "bharat": 1,
+        "ratna": 1,
+        "kejriwal": 1
     },
     "centre-left": {
-        "ram": 3,
-        "ayodhya": 2,
+        "india": 4,
+        "bjp": 3,
+        "modi": 0,
+        "advani": 0,
         "bharat": 0,
-        "modi": 2,
-        "temple": 1,
-        "lalla": 0,
-        "pm": 2
+        "ratna": 0,
+        "kejriwal": 0
     },
     "centre": {
-        "ram": 1,
-        "ayodhya": 2,
+        "india": 1,
+        "bjp": 2,
+        "modi": 2,
+        "advani": 1,
         "bharat": 1,
-        "modi": 0,
-        "temple": 1,
-        "lalla": 1,
-        "pm": 0
+        "ratna": 1,
+        "kejriwal": 0
     },
     "centre-right": {
-        "ram": 16,
-        "ayodhya": 9,
-        "bharat": 7,
-        "modi": 5,
-        "temple": 7,
-        "lalla": 8,
-        "pm": 4
+        "india": 8,
+        "bjp": 3,
+        "modi": 3,
+        "advani": 3,
+        "bharat": 3,
+        "ratna": 3,
+        "kejriwal": 4
     },
     "right": {
-        "ram": 2,
-        "ayodhya": 0,
-        "bharat": 5,
-        "modi": 3,
-        "temple": 0,
-        "lalla": 0,
-        "pm": 3
+        "india": 0,
+        "bjp": 0,
+        "modi": 1,
+        "advani": 1,
+        "bharat": 1,
+        "ratna": 1,
+        "kejriwal": 1
     },
     "left_keywords": [],
     "right_keywords": [
-        "ram",
-        "ayodhya",
-        "bharat",
         "modi",
-        "temple",
-        "lalla",
-        "pm"
+        "advani",
+        "bharat",
+        "ratna",
+        "kejriwal"
     ]
 }
