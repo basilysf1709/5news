@@ -43,7 +43,7 @@ export const Footer = () => {
               <ul className="text-gray-500 font-medium">
                 <li className="mb-4">
                   <a
-                    href="https://github.com/uz1pk"
+                    href="https://github.com/basilysf1709"
                     className="hover:underline "
                   >
                     Github
@@ -82,7 +82,7 @@ export const Footer = () => {
         <div className="sm:flex sm:items-center sm:justify-between">
           <span className="text-sm text-gray-500 sm:text-center">
             © 2024{" "}
-            <a href="https://flowbite.com/" className="hover:underline">
+            <a href="/" className="hover:underline">
               Blindspot
             </a>
             . All Rights Reserved.
