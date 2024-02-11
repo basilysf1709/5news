@@ -1,55 +1,55 @@
 {
     "left": {
+        "sabha": 2,
         "india": 0,
-        "bjp": 1,
-        "modi": 1,
-        "advani": 1,
-        "bharat": 1,
-        "ratna": 1,
-        "kejriwal": 1
+        "delhi": 1,
+        "lok": 2,
+        "2024": 0,
+        "polls": 1,
+        "imran": 1
     },
     "centre-left": {
-        "india": 4,
-        "bjp": 3,
-        "modi": 0,
-        "advani": 0,
-        "bharat": 0,
-        "ratna": 0,
-        "kejriwal": 0
+        "sabha": 1,
+        "india": 2,
+        "delhi": 1,
+        "lok": 0,
+        "2024": 0,
+        "polls": 2,
+        "imran": 1
     },
     "centre": {
-        "india": 1,
-        "bjp": 2,
-        "modi": 2,
-        "advani": 1,
-        "bharat": 1,
-        "ratna": 1,
-        "kejriwal": 0
+        "sabha": 1,
+        "india": 3,
+        "delhi": 0,
+        "lok": 0,
+        "2024": 0,
+        "polls": 0,
+        "imran": 0
     },
     "centre-right": {
-        "india": 8,
-        "bjp": 3,
-        "modi": 3,
-        "advani": 3,
-        "bharat": 3,
-        "ratna": 3,
-        "kejriwal": 4
+        "sabha": 8,
+        "india": 5,
+        "delhi": 4,
+        "lok": 6,
+        "2024": 7,
+        "polls": 2,
+        "imran": 2
     },
     "right": {
-        "india": 0,
-        "bjp": 0,
-        "modi": 1,
-        "advani": 1,
-        "bharat": 1,
-        "ratna": 1,
-        "kejriwal": 1
+        "sabha": 1,
+        "india": 4,
+        "delhi": 2,
+        "lok": 0,
+        "2024": 1,
+        "polls": 1,
+        "imran": 1
     },
     "left_keywords": [],
     "right_keywords": [
-        "modi",
-        "advani",
-        "bharat",
-        "ratna",
-        "kejriwal"
+        "sabha",
+        "india",
+        "delhi",
+        "lok",
+        "2024"
     ]
 }
