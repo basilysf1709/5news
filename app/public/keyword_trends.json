@@ -1,55 +1,54 @@
 {
     "left": {
-        "sabha": 2,
-        "india": 0,
-        "delhi": 1,
-        "lok": 2,
-        "2024": 0,
-        "polls": 1,
-        "imran": 1
+        "india": 1,
+        "sabha": 1,
+        "case": 1,
+        "congress": 0,
+        "how": 0,
+        "shahjahan": 0,
+        "pm": 0
     },
     "centre-left": {
-        "sabha": 1,
         "india": 2,
-        "delhi": 1,
-        "lok": 0,
-        "2024": 0,
-        "polls": 2,
-        "imran": 1
+        "sabha": 0,
+        "case": 1,
+        "congress": 0,
+        "how": 4,
+        "shahjahan": 1,
+        "pm": 0
     },
     "centre": {
-        "sabha": 1,
-        "india": 3,
-        "delhi": 0,
-        "lok": 0,
-        "2024": 0,
-        "polls": 0,
-        "imran": 0
+        "india": 4,
+        "sabha": 0,
+        "case": 0,
+        "congress": 0,
+        "how": 1,
+        "shahjahan": 0,
+        "pm": 0
     },
     "centre-right": {
-        "sabha": 8,
         "india": 5,
-        "delhi": 4,
-        "lok": 6,
-        "2024": 7,
-        "polls": 2,
-        "imran": 2
+        "sabha": 4,
+        "case": 4,
+        "congress": 6,
+        "how": 1,
+        "shahjahan": 4,
+        "pm": 3
     },
     "right": {
+        "india": 1,
         "sabha": 1,
-        "india": 4,
-        "delhi": 2,
-        "lok": 0,
-        "2024": 1,
-        "polls": 1,
-        "imran": 1
+        "case": 0,
+        "congress": 0,
+        "how": 1,
+        "shahjahan": 0,
+        "pm": 2
     },
     "left_keywords": [],
     "right_keywords": [
         "sabha",
-        "india",
-        "delhi",
-        "lok",
-        "2024"
+        "congress",
+        "shahjahan",
+        "pm"
     ]
 }
